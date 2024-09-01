@@ -1,5 +1,6 @@
 import React from 'react';
 import { useTranslations } from 'next-intl';
+import Image from 'next/image';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/UI/Card";
 import { MessageSquare, FileText, Play, Monitor } from "lucide-react";
 
@@ -7,6 +8,7 @@ interface FeatureItem {
   icon: React.ReactNode;
   titleKey: string;
   descriptionKey: string;
+  imageSrc: string;
 }
 
 const Features: React.FC = () => {
@@ -16,22 +18,26 @@ const Features: React.FC = () => {
     {
       icon: <MessageSquare className="h-8 w-8 text-purple-500" />,
       titleKey: "characterProfile.title",
-      descriptionKey: "characterProfile.description"
+      descriptionKey: "characterProfile.description",
+      imageSrc: "/images/character-profile.png"
     },
     {
       icon: <FileText className="h-8 w-8 text-purple-500" />,
       titleKey: "storyStructure.title",
-      descriptionKey: "storyStructure.description"
+      descriptionKey: "storyStructure.description",
+      imageSrc: "/images/story-structure.png"
     },
     {
       icon: <Play className="h-8 w-8 text-purple-500" />,
       titleKey: "sceneEditor.title",
-      descriptionKey: "sceneEditor.description"
+      descriptionKey: "sceneEditor.description",
+      imageSrc: "/images/scene-editor.png"
     },
     {
       icon: <Monitor className="h-8 w-8 text-purple-500" />,
       titleKey: "aiTools.title",
-      descriptionKey: "aiTools.description"
+      descriptionKey: "aiTools.description",
+      imageSrc: "/images/ai-tools.png"
     }
   ];
 
@@ -48,7 +54,16 @@ const Features: React.FC = () => {
               </CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="text-gray-600">{t(feature.descriptionKey)}</p>
+              <p className="text-gray-600 mb-4">{t(feature.descriptionKey)}</p>
+              <div className="relative w-full h-48">
+                <Image
+                  src={feature.imageSrc}
+                  alt={t(feature.titleKey)}
+                  layout="fill"
+                  objectFit="cover"
+                  className="rounded-md"
+                />
+              </div>
             </CardContent>
           </Card>
         ))}
