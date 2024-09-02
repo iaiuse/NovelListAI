@@ -53,9 +53,21 @@ const nextConfig = {
   },
   reactStrictMode: true,
   output: 'standalone',
+  experimental: {
+    runtime: 'experimental-edge',
+  },
+  // 添加以下配置以支持动态路由的静态生成
+  async rewrites() {
+    return [
+      {
+        source: '/:locale/dashboard/:path*',
+        destination: '/dashboard/:path*',
+      },
+    ];
+  },
 };
 
 const withNextIntl = createNextIntlPlugin('./i18n.ts');
 
-// Apply the next-intl plugin
+// 应用 next-intl 插件并导出配置
 export default withNextIntl(nextConfig);

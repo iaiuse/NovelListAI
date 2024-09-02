@@ -9,7 +9,7 @@ import CharacterDesign from '@/components/CharacterDesign';
 import StoryStructure from '@/components/StoryStructure';
 import Writing from '@/components/Writing';
 import Revision from '@/components/Revision';
-
+export const runtime = 'edge';
 export default function Dashboard() {
   const t = useTranslations('Dashboard');
   const pathname = usePathname();
