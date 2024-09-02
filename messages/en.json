@@ -1,4 +1,8 @@
 {
+  "Product": {
+    "name": "ScriptCraft",
+    "solgan": "From Idea to Screenplay, AI Got Your Back"
+  },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
@@ -44,6 +48,34 @@
         "role": "TV Producer",
         "content": "The AI-assisted tools have helped me overcome writer's block countless times. Highly recommended!"
       }
+    },
+    "Header": {
+      "workflow": "Workflow",
+      "features": "Features",
+      "about": "About",
+      "pricing": "Pricing",
+      "signUp": "Sign Up"
+    },
+    "Footer": {
+      "about": "About",
+      "team": "Team",
+      "jobs": "Jobs",
+      "press": "Press",
+      "resources": "Resources",
+      "blog": "Blog",
+      "helpCenter": "Help Center",
+      "tutorials": "Tutorials",
+      "contact": "Contact",
+      "email": "support@scriptcraft.com",
+      "address1": "123 Screenwriter Lane",
+      "address2": "Hollywood, CA 90028",
+      "cta": "Start Your Screenwriting Journey Today",
+      "startFreeTrial": "Start Free Trial",
+      "copyright": "© 2023 ScriptCraft. All rights reserved."
+    },
+    "ProductShowcase": {
+      "title": "Craft your story, scene by scene",
+      "imageAlt": "ScriptCraft Interface"
     }
   },
   "OneLinerStory": {

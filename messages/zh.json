@@ -1,57 +1,89 @@
 {
+  "Product": {
+    "name": "ScriptCraft",
+    "solgan": "创意到剧本，AI全程助力。"
+  },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "The ultimate screenwriting workflow platform",
-      "description": "Craft your story, scene by scene. Elevate your screenwriting process with our intuitive tools and collaborative features.",
-      "cta": "Get Started"
+      "title": "终极剧本创作工作平台",
+      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "cta": "开始使用"
     },
     "Features": {
-      "title": "Key Features",
+      "title": "主要功能",
       "characterProfile": {
-        "title": "Character Profile Generator",
-        "description": "Create detailed character profiles with ease."
+        "title": "角色档案生成器",
+        "description": "轻松创建详细的角色档案。"
       },
       "storyStructure": {
-        "title": "Story Structure",
-        "description": "Organize your story with powerful structuring tools."
+        "title": "故事结构",
+        "description": "使用强大的结构工具组织您的故事。"
       },
       "sceneEditor": {
-        "title": "Scene Editor",
-        "description": "Edit and refine your scenes with precision."
+        "title": "场景编辑器",
+        "description": "精准编辑和完善您的场景。"
       },
       "aiTools": {
-        "title": "AI-Assisted Tools",
-        "description": "Enhance your writing with AI-powered suggestions."
+        "title": "AI辅助工具",
+        "description": "利用AI驱动的建议提升您的写作。"
       }
     },
     "Testimonials": {
-      "title": "What Our Users Say",
+      "title": "用户评价",
       "testimonial1": {
         "name": "Sarah Johnson",
-        "role": "Screenwriter",
-        "content": "ScriptCraft has revolutionized my writing process. The character profile generator is a game-changer!"
+        "role": "编剧",
+        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "Film Director",
-        "content": "The scene editor in ScriptCraft makes it so easy to visualize and refine each moment of the story."
+        "role": "电影导演",
+        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "TV Producer",
-        "content": "The AI-assisted tools have helped me overcome writer's block countless times. Highly recommended!"
+        "role": "电视制片人",
+        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
       }
+    },
+    "Header": {
+      "workflow": "工作流程",
+      "features": "功能",
+      "about": "关于我们",
+      "pricing": "定价",
+      "signUp": "注册"
+    },
+    "Footer": {
+      "about": "关于我们",
+      "team": "团队",
+      "jobs": "工作机会",
+      "press": "新闻",
+      "resources": "资源",
+      "blog": "博客",
+      "helpCenter": "帮助中心",
+      "tutorials": "教程",
+      "contact": "联系我们",
+      "email": "support@scriptcraft.com",
+      "address1": "123 编剧大道",
+      "address2": "好莱坞，加利福尼亚州 90028",
+      "cta": "今天开始您的编剧之旅",
+      "startFreeTrial": "开始免费试用",
+      "copyright": "© 2023 ScriptCraft。保留所有权利。"
+    },
+    "ProductShowcase": {
+      "title": "场景by场景，精心打造您的故事",
+      "imageAlt": "ScriptCraft界面"
     }
   },
   "OneLinerStory": {
-    "title": "One-Liner Story",
-    "keywordsPlaceholder": "Enter keywords, separated by commas",
-    "generateButton": "Generate Story",
-    "result": "Generated Story",
-    "generatedStory": "A story about"
+    "title": "一句话故事",
+    "keywordsPlaceholder": "输入关键词，用逗号分隔",
+    "generateButton": "生成故事",
+    "result": "生成的故事",
+    "generatedStory": "一个关于……的故事"
   },
   "CharacterDesign": {
     "title": "角色设计",
@@ -104,16 +136,16 @@
     "aiSuggestionPlaceholder": "基于你的故事结构，考虑在开场和引发事件之间增加一些日常生活的描述，这将有助于读者更好地理解主角的平常世界。"
   },
   "StoryType": {
-    "title": "Story Type",
-    "learnMoreButton": "Learn More",
+    "title": "故事类型",
+    "learnMoreButton": "了解更多",
     "types": {
       "monsterInTheHouse": {
-        "name": "Monster in the House",
-        "description": "A story where characters are trapped with a monster..."
+        "name": "屋中的怪物",
+        "description": "一个故事，角色被困在有怪物的封闭空间中……"
       },
       "goldenFleece": {
-        "name": "Golden Fleece",
-        "description": "A quest narrative where characters journey to find a prize..."
+        "name": "金羊毛",
+        "description": "一个寻找奖品的冒险叙事，重在主角的内在成长和变化……"
       }
     }
   },
@@ -144,35 +176,56 @@
     "targetAudienceResult": "18-35岁的年轻读者，对科技和未来世界感兴趣",
     "marketTrendsResult": "科幻题材持续走热，特别是涉及人工智能和气候变化的主题",
     "competitiveAnalysisResult": "市场上类似题材的作品不多，有很大发展空间"
-  }, "StoryTypeSelector": {
-    "title": "Select Story Type",
-    "backToFlow": "Back to Flow",
-    "typeDetails": "Type Details",
-    "viewClassicExamples": "View Classic Examples",
+  },
+  "StoryTypeSelector": {
+    "title": "选择故事类型",
+    "backToFlow": "返回流程",
+    "typeDetails": "类型详情",
+    "viewClassicExamples": "查看经典示例",
     "storyTypes": [
-      { "id": "monster", "name": "Monster in the House", "description": "A closed space and a scary monster create tension. The protagonist's goal is to avoid being eaten." },
-      { "id": "goldenFleece", "name": "Golden Fleece", "description": "A journey story where the adventure process is not important, what matters is the protagonist's inner growth and transformation." },
-      { "id": "wishFulfillment", "name": "Wish Fulfillment", "description": "The protagonist has always been oppressed by those around them and hopes to escape this predicament. But after the wish comes true, they realize that being an ordinary person is the best." },
-      { "id": "outOfBottle", "name": "Out of the Bottle", "description": "The protagonist is a troublemaker, but there are some remnants of conscience in them. After a series of events, they finally succeed in changing themselves and achieving growth." },
-      { "id": "dilemma", "name": "Dilemma", "description": "It's about an ordinary person trapped in a predicament. To get out of the predicament, they must first overcome themselves. The quality of the story depends on the contrast between the predicament and the protagonist." }
+      {
+        "id": "monster",
+        "name": "屋中的怪物",
+        "description": "一个封闭空间和一个可怕的怪物制造了紧张气氛。主角的目标是避免被吃掉。"
+      },
+      {
+        "id": "goldenFleece",
+        "name": "金羊毛",
+        "description": "一个旅程故事，冒险过程不重要，重要的是主角的内心成长和转变。"
+      },
+      {
+        "id": "wishFulfillment",
+        "name": "愿望实现",
+        "description": "主角一直被周围的人压迫，希望摆脱困境。但愿望成真后，他们意识到做一个普通人是最好的。"
+      },
+      {
+        "id": "outOfBottle",
+        "name": "瓶子里的精灵",
+        "description": "主角是一个麻烦制造者，但他们内心还有一些良知。在一系列事件后，他们最终成功改变了自己，实现了成长。"
+      },
+      {
+        "id": "dilemma",
+        "name": "进退两难",
+        "description": "讲述的是一个普通人被困在困境中的故事。要走出困境，他们首先必须克服自己。故事的质量取决于困境与主角之间的对比。"
+      }
     ]
   },
   "Writing": {
-    "selectChapter": "Select Chapter",
-    "chapter": "Chapter {number}",
-    "wordCount": "Word Count: {count}",
-    "startWriting": "Start your writing...",
-    "getAISuggestion": "Get AI Suggestion",
-    "saveDraft": "Save Draft",
-    "aiWritingSuggestion": "AI Writing Suggestion",
-    "aiSuggestionPlaceholder": "AI-generated suggestions will appear here.",
-    "writingTips": "Writing Tips",
+    "selectChapter": "选择章节",
+    "chapter": "第{number}章",
+    "wordCount": "字数：{count}",
+    "startWriting": "开始写作...",
+    "getAISuggestion": "获取AI建议",
+    "saveDraft": "保存草稿",
+    "aiWritingSuggestion": "AI写作建议",
+    "aiSuggestionPlaceholder": "AI生成的建议会显示在这里。",
+    "writingTips": "写作技巧",
     "tips": [
-      "Maintain consistency in plot and character development",
-      "Use rich sensory descriptions to enhance the realism of scenes",
-      "Show character personalities and relationships through dialogue and actions",
-      "Pay attention to rhythm changes, add climaxes and turning points at appropriate times",
-      "Regularly review your story outline to ensure the direction of your story"
+      "保持情节和角色发展的连贯性",
+      "使用丰富的感官描述增强场景的现实感",
+      "通过对话和动作展示角色的个性和关系",
+      "注意节奏变化，在适当的时候添加高潮和转折点",
+      "定期审查你的故事大纲，以确保故事方向"
     ]
   }
 }

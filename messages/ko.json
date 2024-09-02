@@ -1,4 +1,8 @@
 {
+  "Product": {
+    "name": "ScriptCraft",
+    "solgan": "아이디어에서 대본까지, AI가 당신과 함께합니다."
+  },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"

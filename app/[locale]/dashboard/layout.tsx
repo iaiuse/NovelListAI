@@ -13,14 +13,14 @@ export default function DashboardLayout({
   params: { locale: string } 
 }) {
   unstable_setRequestLocale(locale);
-  const t = useTranslations('Dashboard');
+  const t = useTranslations('Product');
 
   return (
     <div className="flex h-screen bg-gray-100">
       <Sidebar />
       <main className="flex-1 p-8 overflow-auto">
         <div className="flex justify-between items-center mb-6">
-          <h1 className="text-3xl font-bold">{t('title')}</h1>
+          <h1 className="text-3xl font-bold">{t('solgan')}</h1>
           <LanguageSwitcher />
         </div>
         {children}
