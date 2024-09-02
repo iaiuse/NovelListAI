@@ -144,5 +144,35 @@
     "targetAudienceResult": "18-35岁的年轻读者，对科技和未来世界感兴趣",
     "marketTrendsResult": "科幻题材持续走热，特别是涉及人工智能和气候变化的主题",
     "competitiveAnalysisResult": "市场上类似题材的作品不多，有很大发展空间"
+  }, "StoryTypeSelector": {
+    "title": "Select Story Type",
+    "backToFlow": "Back to Flow",
+    "typeDetails": "Type Details",
+    "viewClassicExamples": "View Classic Examples",
+    "storyTypes": [
+      { "id": "monster", "name": "Monster in the House", "description": "A closed space and a scary monster create tension. The protagonist's goal is to avoid being eaten." },
+      { "id": "goldenFleece", "name": "Golden Fleece", "description": "A journey story where the adventure process is not important, what matters is the protagonist's inner growth and transformation." },
+      { "id": "wishFulfillment", "name": "Wish Fulfillment", "description": "The protagonist has always been oppressed by those around them and hopes to escape this predicament. But after the wish comes true, they realize that being an ordinary person is the best." },
+      { "id": "outOfBottle", "name": "Out of the Bottle", "description": "The protagonist is a troublemaker, but there are some remnants of conscience in them. After a series of events, they finally succeed in changing themselves and achieving growth." },
+      { "id": "dilemma", "name": "Dilemma", "description": "It's about an ordinary person trapped in a predicament. To get out of the predicament, they must first overcome themselves. The quality of the story depends on the contrast between the predicament and the protagonist." }
+    ]
+  },
+  "Writing": {
+    "selectChapter": "Select Chapter",
+    "chapter": "Chapter {number}",
+    "wordCount": "Word Count: {count}",
+    "startWriting": "Start your writing...",
+    "getAISuggestion": "Get AI Suggestion",
+    "saveDraft": "Save Draft",
+    "aiWritingSuggestion": "AI Writing Suggestion",
+    "aiSuggestionPlaceholder": "AI-generated suggestions will appear here.",
+    "writingTips": "Writing Tips",
+    "tips": [
+      "Maintain consistency in plot and character development",
+      "Use rich sensory descriptions to enhance the realism of scenes",
+      "Show character personalities and relationships through dialogue and actions",
+      "Pay attention to rhythm changes, add climaxes and turning points at appropriate times",
+      "Regularly review your story outline to ensure the direction of your story"
+    ]
   }
 }
