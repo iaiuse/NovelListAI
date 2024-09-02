@@ -1,9 +1,9 @@
 import React from 'react';
 import { useTranslations } from 'next-intl';
-import { Button } from "@/components/UI/Button";
+import { Button } from "@/components/ui/button";
 
 const Hero: React.FC = () => {
-  const t = useTranslations('Hero');
+  const t = useTranslations('LandingPage.Hero');
 
   return (
     <section className="py-20 px-6 text-center bg-purple-50">

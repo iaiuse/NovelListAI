@@ -1,0 +1,81 @@
+{
+  "LandingPage": {
+    "Index": {
+      "title": "ScriptCraft"
+    },
+    "Hero": {
+      "title": "The ultimate screenwriting workflow platform",
+      "description": "Craft your story, scene by scene. Elevate your screenwriting process with our intuitive tools and collaborative features.",
+      "cta": "Get Started"
+    },
+    "Features": {
+      "title": "Key Features",
+      "characterProfile": {
+        "title": "Character Profile Generator",
+        "description": "Create detailed character profiles with ease."
+      },
+      "storyStructure": {
+        "title": "Story Structure",
+        "description": "Organize your story with powerful structuring tools."
+      },
+      "sceneEditor": {
+        "title": "Scene Editor",
+        "description": "Edit and refine your scenes with precision."
+      },
+      "aiTools": {
+        "title": "AI-Assisted Tools",
+        "description": "Enhance your writing with AI-powered suggestions."
+      }
+    },
+    "Testimonials": {
+      "title": "What Our Users Say",
+      "testimonial1": {
+        "name": "Sarah Johnson",
+        "role": "Screenwriter",
+        "content": "ScriptCraft has revolutionized my writing process. The character profile generator is a game-changer!"
+      },
+      "testimonial2": {
+        "name": "Michael Lee",
+        "role": "Film Director",
+        "content": "The scene editor in ScriptCraft makes it so easy to visualize and refine each moment of the story."
+      },
+      "testimonial3": {
+        "name": "Emily Rodriguez",
+        "role": "TV Producer",
+        "content": "The AI-assisted tools have helped me overcome writer's block countless times. Highly recommended!"
+      }
+    }
+  },
+  "OneLinerStory": {
+    "title": "One-Liner Story",
+    "keywordsPlaceholder": "Enter keywords, separated by commas",
+    "generateButton": "Generate Story",
+    "result": "Generated Story",
+    "generatedStory": "A story about"
+  },
+  "CharacterDesign": {
+    "title": "Character Design",
+    "namePlaceholder": "Character Name",
+    "backgroundPlaceholder": "Character Background",
+    "personalityPlaceholder": "Personality Traits",
+    "goalPlaceholder": "Main Goal",
+    "obstaclePlaceholder": "Main Obstacle",
+    "generateSuggestionButton": "Get AI Suggestion",
+    "aiSuggestionTitle": "AI Suggestion",
+    "aiSuggestionPlaceholder": "Based on the character details, consider..."
+  },
+  "StoryType": {
+    "title": "Story Type",
+    "learnMoreButton": "Learn More",
+    "types": {
+      "monsterInTheHouse": {
+        "name": "Monster in the House",
+        "description": "A story where characters are trapped with a monster..."
+      },
+      "goldenFleece": {
+        "name": "Golden Fleece",
+        "description": "A quest narrative where characters journey to find a prize..."
+      }
+    }
+  }
+}

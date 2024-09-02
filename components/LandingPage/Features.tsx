@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTranslations } from 'next-intl';
 import Image from 'next/image';
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/UI/Card";
+import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { MessageSquare, FileText, Play, Monitor } from "lucide-react";
 
 interface FeatureItem {
@@ -12,7 +12,7 @@ interface FeatureItem {
 }
 
 const Features: React.FC = () => {
-  const t = useTranslations('Features');
+  const t = useTranslations('LandingPage.Features');
 
   const featureData: FeatureItem[] = [
     {

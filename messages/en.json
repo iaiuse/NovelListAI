@@ -1,4 +1,5 @@
 {
+  "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
@@ -44,4 +45,150 @@
         "content": "The AI-assisted tools have helped me overcome writer's block countless times. Highly recommended!"
       }
     }
+  },
+  "OneLinerStory": {
+    "title": "One-Liner Story",
+    "keywordsPlaceholder": "Enter keywords, separated by commas",
+    "generateButton": "Generate Story",
+    "result": "Generated Story",
+    "generatedStory": "A story about"
+  },
+  "CharacterDesign": {
+    "title": "Character Design",
+    "nameLabel": "Name",
+    "namePlaceholder": "Enter character name",
+    "backgroundLabel": "Background",
+    "backgroundPlaceholder": "Describe character's background",
+    "personalityLabel": "Personality",
+    "personalityPlaceholder": "Describe character's personality",
+    "goalLabel": "Goal",
+    "goalPlaceholder": "What is the character's main goal?",
+    "obstacleLabel": "Obstacle",
+    "obstaclePlaceholder": "What is the main obstacle for the character?",
+    "generateSuggestionButton": "Get AI Suggestion",
+    "aiSuggestionTitle": "AI Suggestion",
+    "aiSuggestionPlaceholder": "Based on the character details, consider..."
+  },
+  "StoryType": {
+    "title": "Story Type",
+    "learnMoreButton": "Learn More",
+    "types": {
+      "monsterInTheHouse": {
+        "name": "Monster in the House",
+        "description": "A story where characters are trapped with a monster..."
+      },
+      "goldenFleece": {
+        "name": "Golden Fleece",
+        "description": "A quest narrative where characters journey to find a prize..."
+      }
+    }
+  },
+  "Dashboard": {
+    "title": "Dashboard",
+    "productName": "ScriptCraft",
+    "welcome": "Welcome to AI Novel Assistant",
+    "selectFeature": "Please select a feature from the sidebar to get started.",
+    "oneLiner": "One-Liner Story",
+    "marketResearch": "Market Research",
+    "storyType": "Story Type",
+    "characterDesign": "Character Design",
+    "storyStructure": "Story Structure",
+    "writing": "Writing",
+    "revision": "Revision"
+  },
+  "OneLiner": {
+    "title": "Create One-Liner Story",
+    "keywords": "Keywords",
+    "keywordsPlaceholder": "Enter keywords, separated by commas",
+    "clear": "Clear",
+    "genre": "Story Genre",
+    "genrePlaceholder": "E.g., Sci-Fi, Fantasy, Mystery",
+    "complexity": "Story Complexity",
+    "aiEnhancement": "AI Enhancement",
+    "generateButton": "Generate One-Liner Story",
+    "generatedStory": "Generated Story",
+    "generatedStoryPrefix": "In a",
+    "generatedStorySuffix": "world,"
+  },
+  "MarketResearch": {
+    "title": "Market Research Analysis",
+    "storyIdeaLabel": "Your Story Idea",
+    "storyIdeaPlaceholder": "Briefly describe your story idea",
+    "analyzeButton": "Analyze Market Trends",
+    "popularityChart": "Genre Popularity",
+    "targetAudience": "Target Audience",
+    "marketTrends": "Market Trends",
+    "competitiveAnalysis": "Competitive Analysis",
+    "genres": "Sci-Fi,Fantasy,Mystery,Romance,Adventure",
+    "targetAudienceResult": "Young readers aged 18-35, interested in technology and future worlds",
+    "marketTrendsResult": "Sci-Fi themes remain popular, especially those involving AI and climate change",
+    "competitiveAnalysisResult": "Few similar works in the market, great potential for development"
+  },
+  "Revision": {
+    "title": "Revision",
+    "textareaPlaceholder": "Enter your text here",
+    "getAISuggestions": "Get AI Suggestions",
+    "allSuggestions": "All Suggestions",
+    "grammar": "Grammar",
+    "style": "Style",
+    "structure": "Structure",
+    "type": "Type",
+    "sampleText": "This is a sample paragraph. There might be some grammatical errors and unclear expressions here. The author might want to improve the structure and word choice of this paragraph.",
+    "grammarSuggestion": "The second sentence lacks a subject, consider adding one.",
+    "styleSuggestion": "Consider using more specific descriptions instead of 'some'.",
+    "structureSuggestion": "This paragraph could be strengthened by adding a topic sentence."
+  },
+  "StoryStructure": {
+    "title": "Story Structure",
+    "openingLabel": "Opening",
+    "openingPlaceholder": "Describe the opening scene",
+    "incitingIncidentLabel": "Inciting Incident",
+    "incitingIncidentPlaceholder": "What event sets the story in motion?",
+    "risingActionLabel": "Rising Action",
+    "risingActionPlaceholder": "Describe the events leading to the climax",
+    "midpointLabel": "Midpoint",
+    "midpointPlaceholder": "What major event occurs in the middle?",
+    "crisisLabel": "Crisis",
+    "crisisPlaceholder": "Describe the moment of greatest tension",
+    "climaxLabel": "Climax",
+    "climaxPlaceholder": "How does the main conflict come to a head?",
+    "resolutionLabel": "Resolution",
+    "resolutionPlaceholder": "How does the story end?",
+    "getAISuggestionButton": "Get AI Structure Suggestion",
+    "aiSuggestionTitle": "AI Structure Suggestion",
+    "aiSuggestionPlaceholder": "Based on your story structure, consider adding some description of everyday life between the opening and the inciting incident. This will help readers better understand the protagonist's normal world."
   }
+  ,
+    "StoryTypeSelector": {
+      "title": "Select Story Type",
+      "backToFlow": "Back to Flow",
+      "typeDetails": "Type Details",
+      "viewClassicExamples": "View Classic Examples",
+      "storyTypes": [
+        { "id": "monster", "name": "Monster in the House", "description": "A closed space and a scary monster create tension. The protagonist's goal is to avoid being eaten." },
+        { "id": "goldenFleece", "name": "Golden Fleece", "description": "A journey story where the adventure process is not important, what matters is the protagonist's inner growth and transformation." },
+        { "id": "wishFulfillment", "name": "Wish Fulfillment", "description": "The protagonist has always been oppressed by those around them and hopes to escape this predicament. But after the wish comes true, they realize that being an ordinary person is the best." },
+        { "id": "outOfBottle", "name": "Out of the Bottle", "description": "The protagonist is a troublemaker, but there are some remnants of conscience in them. After a series of events, they finally succeed in changing themselves and achieving growth." },
+        { "id": "dilemma", "name": "Dilemma", "description": "It's about an ordinary person trapped in a predicament. To get out of the predicament, they must first overcome themselves. The quality of the story depends on the contrast between the predicament and the protagonist." }
+      ]
+    },
+    "Writing": {
+      "selectChapter": "Select Chapter",
+      "chapter": "Chapter {number}",
+      "wordCount": "Word Count: {count}",
+      "startWriting": "Start your writing...",
+      "getAISuggestion": "Get AI Suggestion",
+      "saveDraft": "Save Draft",
+      "aiWritingSuggestion": "AI Writing Suggestion",
+      "aiSuggestionPlaceholder": "AI-generated suggestions will appear here.",
+      "writingTips": "Writing Tips",
+      "tips": [
+        "Maintain consistency in plot and character development",
+        "Use rich sensory descriptions to enhance the realism of scenes",
+        "Show character personalities and relationships through dialogue and actions",
+        "Pay attention to rhythm changes, add climaxes and turning points at appropriate times",
+        "Regularly review your story outline to ensure the direction of your story"
+      ]
+    }
+  
+}

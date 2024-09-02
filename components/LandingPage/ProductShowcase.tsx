@@ -1,5 +1,5 @@
 import Image from 'next/image';
-   import { Card, CardContent } from "@/components/UI/Card";
+   import { Card, CardContent } from "@/components/ui/card";
 
    const ProductShowcase = () => {
      return (

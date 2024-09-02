@@ -1,7 +1,7 @@
 import React from 'react';
 import { useTranslations } from 'next-intl';
 import Image from 'next/image';
-import { Card, CardContent } from "@/components/UI/Card";
+import { Card, CardContent } from "@/components/ui/card";
 
 interface Testimonial {
   nameKey: string;
@@ -11,7 +11,7 @@ interface Testimonial {
 }
 
 const Testimonials: React.FC = () => {
-  const t = useTranslations('Testimonials');
+  const t = useTranslations('LandingPage.Testimonials');
 
   const testimonials: Testimonial[] = [
     {

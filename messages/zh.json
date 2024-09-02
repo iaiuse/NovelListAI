@@ -1,0 +1,148 @@
+{
+  "LandingPage": {
+    "Index": {
+      "title": "ScriptCraft"
+    },
+    "Hero": {
+      "title": "The ultimate screenwriting workflow platform",
+      "description": "Craft your story, scene by scene. Elevate your screenwriting process with our intuitive tools and collaborative features.",
+      "cta": "Get Started"
+    },
+    "Features": {
+      "title": "Key Features",
+      "characterProfile": {
+        "title": "Character Profile Generator",
+        "description": "Create detailed character profiles with ease."
+      },
+      "storyStructure": {
+        "title": "Story Structure",
+        "description": "Organize your story with powerful structuring tools."
+      },
+      "sceneEditor": {
+        "title": "Scene Editor",
+        "description": "Edit and refine your scenes with precision."
+      },
+      "aiTools": {
+        "title": "AI-Assisted Tools",
+        "description": "Enhance your writing with AI-powered suggestions."
+      }
+    },
+    "Testimonials": {
+      "title": "What Our Users Say",
+      "testimonial1": {
+        "name": "Sarah Johnson",
+        "role": "Screenwriter",
+        "content": "ScriptCraft has revolutionized my writing process. The character profile generator is a game-changer!"
+      },
+      "testimonial2": {
+        "name": "Michael Lee",
+        "role": "Film Director",
+        "content": "The scene editor in ScriptCraft makes it so easy to visualize and refine each moment of the story."
+      },
+      "testimonial3": {
+        "name": "Emily Rodriguez",
+        "role": "TV Producer",
+        "content": "The AI-assisted tools have helped me overcome writer's block countless times. Highly recommended!"
+      }
+    }
+  },
+  "OneLinerStory": {
+    "title": "One-Liner Story",
+    "keywordsPlaceholder": "Enter keywords, separated by commas",
+    "generateButton": "Generate Story",
+    "result": "Generated Story",
+    "generatedStory": "A story about"
+  },
+  "CharacterDesign": {
+    "title": "角色设计",
+    "nameLabel": "姓名",
+    "namePlaceholder": "输入角色姓名",
+    "backgroundLabel": "背景",
+    "backgroundPlaceholder": "描述角色的背景",
+    "personalityLabel": "性格",
+    "personalityPlaceholder": "描述角色的性格特征",
+    "goalLabel": "目标",
+    "goalPlaceholder": "角色的主要目标是什么？",
+    "obstacleLabel": "障碍",
+    "obstaclePlaceholder": "角色面临的主要障碍是什么？",
+    "generateSuggestionButton": "获取AI建议",
+    "aiSuggestionTitle": "AI建议",
+    "aiSuggestionPlaceholder": "基于角色详情，考虑..."
+  },
+  "Revision": {
+    "title": "修改",
+    "textareaPlaceholder": "在此输入你的文本",
+    "getAISuggestions": "获取AI建议",
+    "allSuggestions": "所有建议",
+    "grammar": "语法",
+    "style": "风格",
+    "structure": "结构",
+    "type": "类型",
+    "sampleText": "这是一个示例段落。这里可能有一些语法错误和表达不清的地方。作者可能想要改进这个段落的结构和用词。",
+    "grammarSuggestion": "第二句话缺少主语，建议添加。",
+    "styleSuggestion": "考虑使用更具体的描述来代替\"一些\"。",
+    "structureSuggestion": "这个段落可以通过添加一个主题句来增强结构。"
+  },
+  "StoryStructure": {
+    "title": "故事结构",
+    "openingLabel": "开场",
+    "openingPlaceholder": "描述开场场景",
+    "incitingIncidentLabel": "引发事件",
+    "incitingIncidentPlaceholder": "什么事件启动了故事？",
+    "risingActionLabel": "上升行动",
+    "risingActionPlaceholder": "描述导致高潮的事件",
+    "midpointLabel": "中点",
+    "midpointPlaceholder": "中间发生了什么重大事件？",
+    "crisisLabel": "危机",
+    "crisisPlaceholder": "描述最紧张的时刻",
+    "climaxLabel": "高潮",
+    "climaxPlaceholder": "主要冲突如何达到顶点？",
+    "resolutionLabel": "结局",
+    "resolutionPlaceholder": "故事如何结束？",
+    "getAISuggestionButton": "获取AI结构建议",
+    "aiSuggestionTitle": "AI结构建议",
+    "aiSuggestionPlaceholder": "基于你的故事结构，考虑在开场和引发事件之间增加一些日常生活的描述，这将有助于读者更好地理解主角的平常世界。"
+  },
+  "StoryType": {
+    "title": "Story Type",
+    "learnMoreButton": "Learn More",
+    "types": {
+      "monsterInTheHouse": {
+        "name": "Monster in the House",
+        "description": "A story where characters are trapped with a monster..."
+      },
+      "goldenFleece": {
+        "name": "Golden Fleece",
+        "description": "A quest narrative where characters journey to find a prize..."
+      }
+    }
+  },
+  "OneLiner": {
+    "title": "创建一句话故事",
+    "keywords": "关键词",
+    "keywordsPlaceholder": "输入关键词，用逗号分隔",
+    "clear": "清除",
+    "genre": "故事类型",
+    "genrePlaceholder": "例如：科幻、奇幻、悬疑",
+    "complexity": "故事复杂度",
+    "aiEnhancement": "AI增强",
+    "generateButton": "生成一句话故事",
+    "generatedStory": "生成的故事",
+    "generatedStoryPrefix": "在一个",
+    "generatedStorySuffix": "的世界里,"
+  },
+  "MarketResearch": {
+    "title": "市场调查分析",
+    "storyIdeaLabel": "你的故事创意",
+    "storyIdeaPlaceholder": "简要描述你的故事创意",
+    "analyzeButton": "分析市场趋势",
+    "popularityChart": "各类型受欢迎程度",
+    "targetAudience": "目标受众",
+    "marketTrends": "市场趋势",
+    "competitiveAnalysis": "竞争分析",
+    "genres": "科幻,奇幻,悬疑,爱情,冒险",
+    "targetAudienceResult": "18-35岁的年轻读者，对科技和未来世界感兴趣",
+    "marketTrendsResult": "科幻题材持续走热，特别是涉及人工智能和气候变化的主题",
+    "competitiveAnalysisResult": "市场上类似题材的作品不多，有很大发展空间"
+  }
+}
