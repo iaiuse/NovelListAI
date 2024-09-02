@@ -57,14 +57,14 @@ const nextConfig = {
     runtime: 'experimental-edge',
   },
   // 添加以下配置以支持动态路由的静态生成
-  async rewrites() {
-    return [
-      {
-        source: '/:locale/dashboard/:path*',
-        destination: '/dashboard/:path*',
-      },
-    ];
-  },
+  //async rewrites() {
+  //  return [
+  //    {
+  //      source: '/:locale/dashboard/:path*',
+  //      destination: '/dashboard/:path*',
+  //    },
+  //  ];
+  //},
 };
 
 const withNextIntl = createNextIntlPlugin('./i18n.ts');

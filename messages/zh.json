@@ -78,6 +78,19 @@
       "imageAlt": "ScriptCraft界面"
     }
   },
+  "Dashboard": {
+    "title": "仪表板",
+    "productName": "ScriptCraft",
+    "welcome": "欢迎使用AI小说助手",
+    "selectFeature": "请从侧边栏选择一个功能以开始。",
+    "oneLiner": "一句话故事",
+    "marketResearch": "市场调研",
+    "storyType": "故事类型",
+    "characterDesign": "角色设计",
+    "storyStructure": "故事结构",
+    "writing": "写作",
+    "revision": "修改"
+  },
   "OneLinerStory": {
     "title": "一句话故事",
     "keywordsPlaceholder": "输入关键词，用逗号分隔",
