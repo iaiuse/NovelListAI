@@ -1,22 +1,22 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "De l'idée au scénario, l'IA est de votre côté"
+    "solgan": "De l'idée au scénario, l'IA vous soutient"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "La plateforme ultime pour le workflow de scénarisation",
-      "description": "Rédigez votre histoire, scène par scène. Améliorez votre processus de scénarisation avec nos outils intuitifs et fonctionnalités collaboratives.",
-      "cta": "Commencer"
+      "title": "La plate-forme ultime pour le flux de travail de scénarisation",
+      "description": "Créez votre histoire, scène par scène. Élevez votre processus d'écriture de scénarios avec nos outils intuitifs et nos fonctionnalités collaboratives.",
+      "cta": "Commencez"
     },
     "Features": {
       "title": "Fonctionnalités clés",
       "characterProfile": {
         "title": "Générateur de profils de personnages",
-        "description": "Créez facilement des profils de personnages détaillés."
+        "description": "Créez des profils de personnages détaillés en toute simplicité."
       },
       "storyStructure": {
         "title": "Structure de l'histoire",
@@ -24,11 +24,11 @@
       },
       "sceneEditor": {
         "title": "Éditeur de scènes",
-        "description": "Éditez et peaufinez vos scènes avec précision."
+        "description": "Éditez et affinez vos scènes avec précision."
       },
       "aiTools": {
-        "title": "Outils assistés par l'IA",
-        "description": "Améliorez votre écriture avec des suggestions basées sur l'IA."
+        "title": "Outils assistés par IA",
+        "description": "Améliorez votre écriture avec des suggestions alimentées par l'IA."
       }
     },
     "Testimonials": {
@@ -36,17 +36,17 @@
       "testimonial1": {
         "name": "Sarah Johnson",
         "role": "Scénariste",
-        "content": "ScriptCraft a révolutionné mon processus d'écriture. Le générateur de profils de personnages est une véritable révolution !"
+        "content": "ScriptCraft a révolutionné mon processus d'écriture. Le générateur de profils de personnages est un changement majeur!"
       },
       "testimonial2": {
         "name": "Michael Lee",
         "role": "Réalisateur",
-        "content": "L'éditeur de scènes dans ScriptCraft facilite tellement la visualisation et le raffinement de chaque moment de l'histoire."
+        "content": "L'éditeur de scènes dans ScriptCraft rend si facile la visualisation et l'affinage de chaque moment de l'histoire."
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "Producteur TV",
-        "content": "Les outils assistés par l'IA m'ont aidé à surmonter le blocage de l'écrivain à de nombreuses reprises. Hautement recommandé !"
+        "role": "Producteur de télévision",
+        "content": "Les outils assistés par IA m'ont aidé à surmonter le blocage de l'écrivain à de nombreuses reprises. Hautement recommandé!"
       }
     },
     "Header": {
@@ -54,11 +54,11 @@
       "features": "Fonctionnalités",
       "about": "À propos",
       "pricing": "Tarifs",
-      "signUp": "S'inscrire"
+      "signUp": "Inscription"
     },
     "Footer": {
       "about": "À propos",
-      "team": "Equipe",
+      "team": "Équipe",
       "jobs": "Emplois",
       "press": "Presse",
       "resources": "Ressources",
@@ -67,38 +67,38 @@
       "tutorials": "Tutoriels",
       "contact": "Contact",
       "email": "support@scriptcraft.com",
-      "address1": "123 Allée du Scénariste",
+      "address1": "123 Rue du Scénariste",
       "address2": "Hollywood, CA 90028",
-      "cta": "Commencez votre aventure de scénarisation aujourd'hui",
-      "startFreeTrial": "Démarrez l'essai gratuit",
+      "cta": "Commencez votre aventure d'écriture scénaristique dès maintenant",
+      "startFreeTrial": "Commencez l'essai gratuit",
       "copyright": "© 2023 ScriptCraft. Tous droits réservés."
     },
     "ProductShowcase": {
-      "title": "Rédigez votre histoire, scène par scène",
+      "title": "Créez votre histoire, scène par scène",
       "imageAlt": "Interface de ScriptCraft"
     }
   },
   "OneLinerStory": {
-    "title": "Synopsis",
+    "title": "Histoire en une ligne",
     "keywordsPlaceholder": "Entrez des mots-clés, séparés par des virgules",
-    "generateButton": "Générer l'histoire",
+    "generateButton": "Générer une histoire",
     "result": "Histoire générée",
-    "generatedStory": "Une histoire sur"
+    "generatedStory": "Une histoire à propos de"
   },
   "CharacterDesign": {
-    "title": "Design des personnages",
+    "title": "Conception de personnages",
     "nameLabel": "Nom",
     "namePlaceholder": "Entrez le nom du personnage",
-    "backgroundLabel": "Arrière-plan",
-    "backgroundPlaceholder": "Décrivez l'arrière-plan du personnage",
+    "backgroundLabel": "Origine",
+    "backgroundPlaceholder": "Décrivez l'origine du personnage",
     "personalityLabel": "Personnalité",
     "personalityPlaceholder": "Décrivez la personnalité du personnage",
     "goalLabel": "Objectif",
     "goalPlaceholder": "Quel est l'objectif principal du personnage ?",
     "obstacleLabel": "Obstacle",
-    "obstaclePlaceholder": "Quel est le principal obstacle pour le personnage ?",
-    "generateSuggestionButton": "Obtenir une suggestion d'IA",
-    "aiSuggestionTitle": "Suggestion d'IA",
+    "obstaclePlaceholder": "Quel est l'obstacle principal pour le personnage ?",
+    "generateSuggestionButton": "Obtenir une suggestion IA",
+    "aiSuggestionTitle": "Suggestion IA",
     "aiSuggestionPlaceholder": "En fonction des détails du personnage, envisagez..."
   },
   "StoryType": {
@@ -106,41 +106,41 @@
     "learnMoreButton": "En savoir plus",
     "types": {
       "monsterInTheHouse": {
-        "name": "Monstre dans la maison",
+        "name": "Monstre dans la Maison",
         "description": "Une histoire où les personnages sont piégés avec un monstre..."
       },
       "goldenFleece": {
-        "name": "La Toison d'Or",
-        "description": "Un récit de quête où les personnages partent à la recherche d'un prix..."
+        "name": "Toison d'Or",
+        "description": "Une quête où les personnages voyagent pour trouver un prix..."
       }
     }
   },
   "Dashboard": {
     "title": "Tableau de bord",
     "productName": "ScriptCraft",
-    "welcome": "Bienvenue dans l'assistant de roman IA",
+    "welcome": "Bienvenue dans l'Assistant de Roman IA",
     "selectFeature": "Veuillez sélectionner une fonctionnalité dans la barre latérale pour commencer.",
-    "oneLiner": "Synopsis",
+    "oneLiner": "Histoire en une ligne",
     "marketResearch": "Analyse de marché",
     "storyType": "Type d'histoire",
-    "characterDesign": "Design des personnages",
+    "characterDesign": "Conception de personnages",
     "storyStructure": "Structure de l'histoire",
     "writing": "Écriture",
     "revision": "Révision"
   },
   "OneLiner": {
-    "title": "Créer un Synopsis",
+    "title": "Créer une histoire en une ligne",
     "keywords": "Mots-clés",
     "keywordsPlaceholder": "Entrez des mots-clés, séparés par des virgules",
     "clear": "Effacer",
     "genre": "Genre de l'histoire",
-    "genrePlaceholder": "Ex.: Sci-Fi, Fantasy, Mystère",
+    "genrePlaceholder": "Ex. : Sci-Fi, Fantasy, Mystère",
     "complexity": "Complexité de l'histoire",
     "aiEnhancement": "Amélioration IA",
-    "generateButton": "Générer le Synopsis",
+    "generateButton": "Générer une histoire en une ligne",
     "generatedStory": "Histoire générée",
-    "generatedStoryPrefix": "Dans un",
-    "generatedStorySuffix": "monde,"
+    "generatedStoryPrefix": "Dans un monde",
+    "generatedStorySuffix": "où"
   },
   "MarketResearch": {
     "title": "Analyse de marché",
@@ -152,22 +152,22 @@
     "marketTrends": "Tendances du marché",
     "competitiveAnalysis": "Analyse concurrentielle",
     "genres": "Sci-Fi,Fantasy,Mystère,Romance,Aventure",
-    "targetAudienceResult": "Jeunes lecteurs de 18 à 35 ans, intéressés par la technologie et les mondes futurs",
-    "marketTrendsResult": "Les thèmes Sci-Fi restent populaires, en particulier ceux impliquant l'IA et le changement climatique",
+    "targetAudienceResult": "Jeunes lecteurs âgés de 18 à 35 ans, intéressés par la technologie et les mondes futurs",
+    "marketTrendsResult": "Les thèmes de la Sci-Fi restent populaires, en particulier ceux impliquant l'IA et le changement climatique",
     "competitiveAnalysisResult": "Peu de travaux similaires sur le marché, grand potentiel de développement"
   },
   "Revision": {
     "title": "Révision",
     "textareaPlaceholder": "Entrez votre texte ici",
-    "getAISuggestions": "Obtenir des suggestions de l'IA",
+    "getAISuggestions": "Obtenir des suggestions IA",
     "allSuggestions": "Toutes les suggestions",
     "grammar": "Grammaire",
     "style": "Style",
     "structure": "Structure",
     "type": "Type",
-    "sampleText": "Ceci est un paragraphe d'exemple. Il pourrait y avoir des erreurs grammaticales et des expressions floues ici. L'auteur pourrait vouloir améliorer la structure et le choix des mots de ce paragraphe.",
-    "grammarSuggestion": "La deuxième phrase manque d'un sujet, envisagez d'en ajouter un.",
-    "styleSuggestion": "Envisagez d'utiliser des descriptions plus spécifiques à la place de 'quelques'.",
+    "sampleText": "Ceci est un paragraphe d'exemple. Il peut y avoir quelques erreurs grammaticales et des expressions peu claires ici. L'auteur pourrait vouloir améliorer la structure et le choix des mots de ce paragraphe.",
+    "grammarSuggestion": "La deuxième phrase manque de sujet, pensez à en ajouter un.",
+    "styleSuggestion": "Envisagez d'utiliser des descriptions plus précises au lieu de 'quelques'.",
     "structureSuggestion": "Ce paragraphe pourrait être renforcé en ajoutant une phrase de sujet."
   },
   "StoryStructure": {
@@ -175,70 +175,70 @@
     "openingLabel": "Ouverture",
     "openingPlaceholder": "Décrivez la scène d'ouverture",
     "incitingIncidentLabel": "Incident déclencheur",
-    "incitingIncidentPlaceholder": "Quel événement met l'histoire en mouvement ?",
-    "risingActionLabel": "Action ascendante",
+    "incitingIncidentPlaceholder": "Quel événement déclenche l'histoire ?",
+    "risingActionLabel": "Action montante",
     "risingActionPlaceholder": "Décrivez les événements menant au climax",
-    "midpointLabel": "Milieu",
+    "midpointLabel": "Point médian",
     "midpointPlaceholder": "Quel événement majeur se produit au milieu ?",
     "crisisLabel": "Crise",
     "crisisPlaceholder": "Décrivez le moment de plus grande tension",
     "climaxLabel": "Climax",
-    "climaxPlaceholder": "Comment le conflit principal se conclut-il ?",
+    "climaxPlaceholder": "Comment le conflit principal atteint-il son apogée ?",
     "resolutionLabel": "Résolution",
-    "resolutionPlaceholder": "Comment se termine l'histoire ?",
-    "getAISuggestionButton": "Obtenir une suggestion de structure d'IA",
-    "aiSuggestionTitle": "Suggestion de structure d'IA",
+    "resolutionPlaceholder": "Comment l'histoire se termine-t-elle ?",
+    "getAISuggestionButton": "Obtenir une suggestion de structure IA",
+    "aiSuggestionTitle": "Suggestion de structure IA",
     "aiSuggestionPlaceholder": "En fonction de la structure de votre histoire, envisagez d'ajouter une description de la vie quotidienne entre l'ouverture et l'incident déclencheur. Cela aidera les lecteurs à mieux comprendre le monde normal du protagoniste."
   },
   "StoryTypeSelector": {
-    "title": "Sélectionner le type d'histoire",
+    "title": "Sélectionnez le type d'histoire",
     "backToFlow": "Retour au flux",
     "typeDetails": "Détails du type",
     "viewClassicExamples": "Voir des exemples classiques",
     "storyTypes": [
       {
         "id": "monster",
-        "name": "Monstre dans la maison",
-        "description": "Un espace clos et un monstre effrayant créent de la tension. L'objectif du protagoniste est d'éviter d'être mangé."
+        "name": "Monstre dans la Maison",
+        "description": "Un espace clos et un monstre effrayant créent une tension. L'objectif du protagoniste est d'éviter d'être dévoré."
       },
       {
         "id": "goldenFleece",
-        "name": "La Toison d'Or",
-        "description": "Une histoire de voyage où le processus d'aventure n'est pas important, ce qui compte c'est la croissance intérieure et la transformation du protagoniste."
+        "name": "Toison d'Or",
+        "description": "Une histoire de voyage où le processus de l'aventure n'est pas important, ce qui compte c'est la croissance intérieure et la transformation du protagoniste."
       },
       {
         "id": "wishFulfillment",
         "name": "Réalisation de vœux",
-        "description": "Le protagoniste a toujours été opprimé par son entourage et espère échapper à cette situation. Mais après que le vœu se réalise, il se rend compte que d'être une personne ordinaire est le mieux."
+        "description": "Le protagoniste a toujours été opprimé par son entourage et espère échapper à cette situation. Mais après que son souhait se réalise, il se rend compte que d'être une personne ordinaire est le meilleur choix."
       },
       {
         "id": "outOfBottle",
-        "name": "Sorti de la Bouteille",
-        "description": "Le protagoniste est un fauteur de troubles, mais il reste quelques traces de conscience en lui. Après une série d'événements, il réussit finalement à se transformer et à atteindre la croissance."
+        "name": "Sortilège",
+        "description": "Le protagoniste est un fauteur de troubles, mais il reste en lui un peu de conscience. Après une série d'événements, il finit par réussir à changer et à grandir."
       },
       {
         "id": "dilemma",
         "name": "Dilemme",
-        "description": "Il s'agit d'une personne ordinaire piégée dans un dilemme. Pour sortir du dilemme, il doit d'abord se surpasser. La qualité de l'histoire dépend du contraste entre le dilemme et le protagoniste."
+        "description": "Il s'agit d'une personne ordinaire prise dans une situation difficile. Pour s'en sortir, elle doit d'abord se conquérir elle-même. La qualité de l'histoire dépend du contraste entre la situation difficile et le protagoniste."
       }
     ]
   },
   "Writing": {
-    "selectChapter": "Sélectionnez le chapitre",
+    "selectChapter": "Sélectionnez un chapitre",
     "chapter": "Chapitre {number}",
     "wordCount": "Nombre de mots : {count}",
-    "startWriting": "Commencez à écrire...",
-    "getAISuggestion": "Obtenir une suggestion d'IA",
+    "startWriting": "Commencez votre écriture...",
+    "getAISuggestion": "Obtenir une suggestion IA",
     "saveDraft": "Enregistrer le brouillon",
     "aiWritingSuggestion": "Suggestion d'écriture IA",
     "aiSuggestionPlaceholder": "Les suggestions générées par l'IA apparaîtront ici.",
     "writingTips": "Conseils d'écriture",
     "tips": [
       "Maintenez la cohérence dans le développement de l'intrigue et des personnages",
-      "Utilisez des descriptions sensorielles riches pour améliorer le réalisme des scènes",
-      "Montrez la personnalité et les relations des personnages à travers les dialogues et les actions",
-      "Faites attention aux changements de rythme, ajoutez des climats et des points de retournement aux moments appropriés",
-      "Révisez régulièrement la trame de votre histoire pour garantir la direction de votre récit"
+      "Utilisez des descriptions sensorielles riches pour augmenter le réalisme des scènes",
+      "Montrez les personnalités et les relations des personnages à travers les dialogues et les actions",
+      "Faites attention aux changements de rythme, ajoutez des sommets et des points tournants au bon moment",
+      "Revoyez régulièrement le plan de votre histoire pour assurer la direction de votre récit"
     ]
   }
 }

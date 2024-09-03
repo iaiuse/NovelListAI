@@ -1,38 +1,38 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "De la idea al guion, la IA te respalda"
+    "solgan": "De la idea al guion, la IA te cubre"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "La plataforma definitiva para el flujo de trabajo de guionismo",
-      "description": "Crea tu historia, escena por escena. Eleva tu proceso de escritura de guiones con nuestras herramientas intuitivas y funciones colaborativas.",
+      "title": "La plataforma definitiva para el flujo de trabajo de guionistas",
+      "description": "Crea tu historia, escena por escena. Eleva tu proceso de escritura con nuestras herramientas intuitivas y funciones colaborativas.",
       "cta": "Comenzar"
     },
     "Features": {
-      "title": "Características principales",
+      "title": "Características Clave",
       "characterProfile": {
-        "title": "Generador de perfiles de personajes",
+        "title": "Generador de Perfiles de Personajes",
         "description": "Crea perfiles de personajes detallados con facilidad."
       },
       "storyStructure": {
-        "title": "Estructura de la historia",
-        "description": "Organiza tu historia con poderosas herramientas de estructuración."
+        "title": "Estructura de Historia",
+        "description": "Organiza tu historia con potentes herramientas de estructuración."
       },
       "sceneEditor": {
-        "title": "Editor de escenas",
-        "description": "Edita y perfecciona tus escenas con precisión."
+        "title": "Editor de Escenas",
+        "description": "Edita y mejora tus escenas con precisión."
       },
       "aiTools": {
-        "title": "Herramientas asistidas por IA",
+        "title": "Herramientas Asistidas por IA",
         "description": "Mejora tu escritura con sugerencias impulsadas por IA."
       }
     },
     "Testimonials": {
-      "title": "Lo que dicen nuestros usuarios",
+      "title": "Lo Que Dicen Nuestros Usuarios",
       "testimonial1": {
         "name": "Sarah Johnson",
         "role": "Guionista",
@@ -40,37 +40,37 @@
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "Director de cine",
-        "content": "El editor de escenas en ScriptCraft facilita mucho visualizar y perfeccionar cada momento de la historia."
+        "role": "Director de Cine",
+        "content": "El editor de escenas en ScriptCraft facilita visualizar y mejorar cada momento de la historia."
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
         "role": "Productor de TV",
-        "content": "Las herramientas asistidas por IA me han ayudado a superar el bloqueo del escritor incontables veces. ¡Muy recomendado!"
+        "content": "Las herramientas asistidas por IA me han ayudado a superar el bloqueo del escritor en innumerables ocasiones. ¡Muy recomendado!"
       }
     },
     "Header": {
-      "workflow": "Flujo de trabajo",
+      "workflow": "Flujo de Trabajo",
       "features": "Características",
-      "about": "Acerca de",
+      "about": "Nosotros",
       "pricing": "Precios",
-      "signUp": "Regístrate"
+      "signUp": "Registrarse"
     },
     "Footer": {
-      "about": "Acerca de",
+      "about": "Nosotros",
       "team": "Equipo",
       "jobs": "Empleos",
       "press": "Prensa",
       "resources": "Recursos",
       "blog": "Blog",
-      "helpCenter": "Centro de ayuda",
+      "helpCenter": "Centro de Ayuda",
       "tutorials": "Tutoriales",
       "contact": "Contacto",
       "email": "support@scriptcraft.com",
-      "address1": "123 Calle del Guionista",
+      "address1": "Calle Guionista, 123",
       "address2": "Hollywood, CA 90028",
       "cta": "Comienza tu viaje de escritura de guiones hoy",
-      "startFreeTrial": "Comienza la prueba gratuita",
+      "startFreeTrial": "Iniciar Prueba Gratis",
       "copyright": "© 2023 ScriptCraft. Todos los derechos reservados."
     },
     "ProductShowcase": {
@@ -79,166 +79,166 @@
     }
   },
   "OneLinerStory": {
-    "title": "Historia de una línea",
-    "keywordsPlaceholder": "Ingresa palabras clave, separadas por comas",
-    "generateButton": "Generar historia",
-    "result": "Historia generada",
+    "title": "Historia en Una Línea",
+    "keywordsPlaceholder": "Introduce palabras clave, separadas por comas",
+    "generateButton": "Generar Historia",
+    "result": "Historia Generada",
     "generatedStory": "Una historia sobre"
   },
   "CharacterDesign": {
-    "title": "Diseño de personajes",
+    "title": "Diseño de Personajes",
     "nameLabel": "Nombre",
-    "namePlaceholder": "Ingresa el nombre del personaje",
+    "namePlaceholder": "Introduce el nombre del personaje",
     "backgroundLabel": "Antecedentes",
     "backgroundPlaceholder": "Describe los antecedentes del personaje",
     "personalityLabel": "Personalidad",
     "personalityPlaceholder": "Describe la personalidad del personaje",
     "goalLabel": "Meta",
-    "goalPlaceholder": "¿Cuál es el objetivo principal del personaje?",
+    "goalPlaceholder": "¿Cuál es la meta principal del personaje?",
     "obstacleLabel": "Obstáculo",
-    "obstaclePlaceholder": "¿Cuál es el obstáculo principal para el personaje?",
-    "generateSuggestionButton": "Obtener sugerencia de IA",
+    "obstaclePlaceholder": "¿Cuál es el principal obstáculo para el personaje?",
+    "generateSuggestionButton": "Obtener Sugerencia de IA",
     "aiSuggestionTitle": "Sugerencia de IA",
-    "aiSuggestionPlaceholder": "Según los detalles del personaje, considera..."
+    "aiSuggestionPlaceholder": "Basado en los detalles del personaje, considera..."
   },
   "StoryType": {
-    "title": "Tipo de historia",
-    "learnMoreButton": "Aprender más",
+    "title": "Tipo de Historia",
+    "learnMoreButton": "Más Información",
     "types": {
       "monsterInTheHouse": {
-        "name": "Monstruo en la casa",
-        "description": "Una historia en la que los personajes están atrapados con un monstruo..."
+        "name": "El Monstruo en la Casa",
+        "description": "Una historia donde los personajes están atrapados con un monstruo..."
       },
       "goldenFleece": {
-        "name": "Vellocino de Oro",
-        "description": "Una narrativa de búsqueda en la que los personajes se embarcan en un viaje para encontrar un premio..."
+        "name": "El Vellocino de Oro",
+        "description": "Una narrativa de búsqueda donde los personajes viajan para encontrar un premio..."
       }
     }
   },
   "Dashboard": {
-    "title": "Tablero",
+    "title": "Panel de Control",
     "productName": "ScriptCraft",
-    "welcome": "Bienvenido a AI Novel Assistant",
+    "welcome": "Bienvenido a Asistente de Novelas IA",
     "selectFeature": "Por favor, selecciona una característica en la barra lateral para comenzar.",
-    "oneLiner": "Historia de una línea",
-    "marketResearch": "Investigación de mercado",
-    "storyType": "Tipo de historia",
-    "characterDesign": "Diseño de personajes",
-    "storyStructure": "Estructura de la historia",
+    "oneLiner": "Historia en Una Línea",
+    "marketResearch": "Investigación de Mercado",
+    "storyType": "Tipo de Historia",
+    "characterDesign": "Diseño de Personajes",
+    "storyStructure": "Estructura de Historia",
     "writing": "Escritura",
     "revision": "Revisión"
   },
   "OneLiner": {
-    "title": "Crear historia de una línea",
-    "keywords": "Palabras clave",
-    "keywordsPlaceholder": "Ingresa palabras clave, separadas por comas",
-    "clear": "Borrar",
-    "genre": "Género de la historia",
-    "genrePlaceholder": "Ej., Ciencia ficción, Fantasía, Misterio",
-    "complexity": "Complejidad de la historia",
+    "title": "Crear Historia en Una Línea",
+    "keywords": "Palabras Clave",
+    "keywordsPlaceholder": "Introduce palabras clave, separadas por comas",
+    "clear": "Limpiar",
+    "genre": "Género de la Historia",
+    "genrePlaceholder": "Ej., Ciencia Ficción, Fantasía, Misterio",
+    "complexity": "Complejidad de la Historia",
     "aiEnhancement": "Mejora de IA",
-    "generateButton": "Generar historia de una línea",
-    "generatedStory": "Historia generada",
-    "generatedStoryPrefix": "En un mundo",
-    "generatedStorySuffix": ","
+    "generateButton": "Generar Historia en Una Línea",
+    "generatedStory": "Historia Generada",
+    "generatedStoryPrefix": "En un",
+    "generatedStorySuffix": "mundo,"
   },
   "MarketResearch": {
-    "title": "Análisis de investigación de mercado",
-    "storyIdeaLabel": "Tu idea de historia",
+    "title": "Análisis de Investigación de Mercado",
+    "storyIdeaLabel": "Tu Idea de Historia",
     "storyIdeaPlaceholder": "Describe brevemente tu idea de historia",
-    "analyzeButton": "Analizar tendencias del mercado",
-    "popularityChart": "Popularidad del género",
-    "targetAudience": "Público objetivo",
-    "marketTrends": "Tendencias del mercado",
-    "competitiveAnalysis": "Análisis competitivo",
-    "genres": "Ciencia ficción, Fantasía, Misterio, Romance, Aventura",
-    "targetAudienceResult": "Jóvenes lectores de 18-35 años, interesados en la tecnología y los mundos futuros",
-    "marketTrendsResult": "Los temas de ciencia ficción siguen siendo populares, especialmente aquellos que involucran IA y cambio climático",
-    "competitiveAnalysisResult": "Pocos trabajos similares en el mercado, gran potencial para el desarrollo"
+    "analyzeButton": "Analizar Tendencias del Mercado",
+    "popularityChart": "Popularidad de Géneros",
+    "targetAudience": "Audiencia Objetivo",
+    "marketTrends": "Tendencias del Mercado",
+    "competitiveAnalysis": "Análisis Competitivo",
+    "genres": "Ciencia Ficción,Fantasia,Misterio,Romance,Aventura",
+    "targetAudienceResult": "Lectores jóvenes de 18-35 años, interesados en tecnología y mundos futuros",
+    "marketTrendsResult": "Temas de Ciencia Ficción siguen siendo populares, especialmente los que involucran IA y cambio climático",
+    "competitiveAnalysisResult": "Pocos trabajos similares en el mercado, gran potencial de desarrollo"
   },
   "Revision": {
     "title": "Revisión",
-    "textareaPlaceholder": "Ingresa tu texto aquí",
-    "getAISuggestions": "Obtener sugerencias de IA",
-    "allSuggestions": "Todas las sugerencias",
+    "textareaPlaceholder": "Introduce tu texto aquí",
+    "getAISuggestions": "Obtener Sugerencias de IA",
+    "allSuggestions": "Todas las Sugerencias",
     "grammar": "Gramática",
     "style": "Estilo",
     "structure": "Estructura",
     "type": "Tipo",
-    "sampleText": "Este es un párrafo de muestra. Podría haber algunos errores gramaticales y expresiones poco claras aquí. El autor podría querer mejorar la estructura y elección de palabras de este párrafo.",
+    "sampleText": "Este es un párrafo de muestra. Puede haber algunos errores gramaticales y expresiones poco claras aquí. El autor podría querer mejorar la estructura y la elección de palabras de este párrafo.",
     "grammarSuggestion": "La segunda oración carece de sujeto, considera agregar uno.",
     "styleSuggestion": "Considera usar descripciones más específicas en lugar de 'algunos'.",
-    "structureSuggestion": "Este párrafo podría fortalecerse añadiendo una oración temática."
+    "structureSuggestion": "Este párrafo podría fortalecerse agregando una oración temática."
   },
   "StoryStructure": {
-    "title": "Estructura de la historia",
+    "title": "Estructura de Historia",
     "openingLabel": "Apertura",
     "openingPlaceholder": "Describe la escena de apertura",
-    "incitingIncidentLabel": "Incidente incitador",
+    "incitingIncidentLabel": "Incidente Incitador",
     "incitingIncidentPlaceholder": "¿Qué evento pone en marcha la historia?",
-    "risingActionLabel": "Acción ascendente",
+    "risingActionLabel": "Acción Creciente",
     "risingActionPlaceholder": "Describe los eventos que llevan al clímax",
-    "midpointLabel": "Punto medio",
+    "midpointLabel": "Punto Medio",
     "midpointPlaceholder": "¿Qué evento importante ocurre en el medio?",
     "crisisLabel": "Crisis",
     "crisisPlaceholder": "Describe el momento de mayor tensión",
     "climaxLabel": "Climax",
-    "climaxPlaceholder": "¿Cómo llega a su punto culminante el conflicto principal?",
+    "climaxPlaceholder": "¿Cómo llega el conflicto principal a su punto crítico?",
     "resolutionLabel": "Resolución",
     "resolutionPlaceholder": "¿Cómo termina la historia?",
-    "getAISuggestionButton": "Obtener sugerencia de estructura de IA",
-    "aiSuggestionTitle": "Sugerencia de estructura de IA",
-    "aiSuggestionPlaceholder": "Según tu estructura de historia, considera añadir alguna descripción de la vida cotidiana entre la apertura y el incidente incitador. Esto ayudará a los lectores a entender mejor el mundo normal del protagonista."
+    "getAISuggestionButton": "Obtener Sugerencia de Estructura de IA",
+    "aiSuggestionTitle": "Sugerencia de Estructura de IA",
+    "aiSuggestionPlaceholder": "Basado en la estructura de tu historia, considera agregar una descripción de la vida cotidiana entre la apertura y el incidente incitador. Esto ayudará a los lectores a entender mejor el mundo normal del protagonista."
   },
   "StoryTypeSelector": {
-    "title": "Seleccionar tipo de historia",
-    "backToFlow": "Volver al flujo",
-    "typeDetails": "Detalles del tipo",
-    "viewClassicExamples": "Ver ejemplos clásicos",
+    "title": "Seleccionar Tipo de Historia",
+    "backToFlow": "Volver al Flujo",
+    "typeDetails": "Detalles del Tipo",
+    "viewClassicExamples": "Ver Ejemplos Clásicos",
     "storyTypes": [
       {
         "id": "monster",
-        "name": "Monstruo en la casa",
+        "name": "El Monstruo en la Casa",
         "description": "Un espacio cerrado y un monstruo aterrador crean tensión. El objetivo del protagonista es evitar ser devorado."
       },
       {
         "id": "goldenFleece",
-        "name": "Vellocino de Oro",
-        "description": "Una historia de viaje en la que el proceso de la aventura no es importante, lo que importa es el crecimiento y la transformación interior del protagonista."
+        "name": "El Vellocino de Oro",
+        "description": "Una historia de viaje donde el proceso de la aventura no es importante, lo que importa es el crecimiento interno y la transformación del protagonista."
       },
       {
         "id": "wishFulfillment",
-        "name": "Cumplimiento de deseos",
-        "description": "El protagonista siempre ha sido oprimido por quienes lo rodean y espera escapar de esta situación. Pero después de que el deseo se cumple, se da cuenta de que ser una persona común es lo mejor."
+        "name": "Cumplimiento de Deseo",
+        "description": "El protagonista siempre ha sido oprimido por aquellos a su alrededor y espera escapar de esta situación. Pero después de que el deseo se hace realidad, se da cuenta de que ser una persona común es lo mejor."
       },
       {
         "id": "outOfBottle",
-        "name": "Fuera de la botella",
-        "description": "El protagonista es un alborotador, pero hay algunos remanentes de conciencia en él. Después de una serie de eventos, finalmente logra cambiarse a sí mismo y crecer."
+        "name": "Fuera de la Botella",
+        "description": "El protagonista es un alborotador, pero aún quedan restos de conciencia en él. Después de una serie de eventos, finalmente consigue cambiar y crecer."
       },
       {
         "id": "dilemma",
         "name": "Dilema",
-        "description": "Se trata de una persona común atrapada en una situación difícil. Para salir de la situación, primero deben superarse a sí mismos. La calidad de la historia depende del contraste entre la situación y el protagonista."
+        "description": "Se trata de una persona común atrapada en un apuro. Para salir del apuro, primero debe superar a sí mismo. La calidad de la historia depende del contraste entre el apuro y el protagonista."
       }
     ]
   },
   "Writing": {
-    "selectChapter": "Seleccionar capítulo",
+    "selectChapter": "Seleccionar Capítulo",
     "chapter": "Capítulo {number}",
-    "wordCount": "Conteo de palabras: {count}",
-    "startWriting": "Comienza a escribir...",
-    "getAISuggestion": "Obtener sugerencia de IA",
-    "saveDraft": "Guardar borrador",
-    "aiWritingSuggestion": "Sugerencia de escritura de IA",
+    "wordCount": "Recuento de Palabras: {count}",
+    "startWriting": "Empieza a escribir...",
+    "getAISuggestion": "Obtener Sugerencia de IA",
+    "saveDraft": "Guardar Borrador",
+    "aiWritingSuggestion": "Sugerencia de Escritura de IA",
     "aiSuggestionPlaceholder": "Las sugerencias generadas por IA aparecerán aquí.",
-    "writingTips": "Consejos de escritura",
+    "writingTips": "Consejos de Escritura",
     "tips": [
-      "Mantén la coherencia en el desarrollo de la trama y los personajes",
+      "Mantén la coherencia en el desarrollo del argumento y los personajes",
       "Usa descripciones sensoriales ricas para mejorar el realismo de las escenas",
-      "Muestra las personalidades y relaciones de los personajes a través del diálogo y las acciones",
-      "Presta atención a los cambios de ritmo, agrega clímax y puntos de giro en los momentos adecuados",
-      "Revisa regularmente tu esquema de historia para asegurar la dirección de tu historia"
+      "Muestra las personalidades y relaciones de los personajes a través de diálogos y acciones",
+      "Presta atención a los cambios de ritmo, añade clímax y puntos de giro en momentos apropiados",
+      "Revisa regularmente tu esquema de historia para asegurarte de la dirección de tu historia"
     ]
   }
 }
