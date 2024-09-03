@@ -1,216 +1,244 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "아이디어에서 대본까지, AI가 당신과 함께합니다."
+    "solgan": "아이디어에서 시나리오까지, AI가 도와드립니다"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "스크립트크래프트"
     },
     "Hero": {
-      "title": "The ultimate screenwriting workflow platform",
-      "description": "Craft your story, scene by scene. Elevate your screenwriting process with our intuitive tools and collaborative features.",
-      "cta": "Get Started"
+      "title": "최고의 시나리오 작성 플랫폼",
+      "description": "스토리를 하나하나 구성하세요. 직관적인 도구와 협업 기능으로 시나리오 작성 과정을 개선하세요.",
+      "cta": "시작하기"
     },
     "Features": {
-      "title": "Key Features",
+      "title": "주요 기능",
       "characterProfile": {
-        "title": "Character Profile Generator",
-        "description": "Create detailed character profiles with ease."
+        "title": "캐릭터 프로필 생성기",
+        "description": "쉽게 상세한 캐릭터 프로필을 작성하세요."
       },
       "storyStructure": {
-        "title": "Story Structure",
-        "description": "Organize your story with powerful structuring tools."
+        "title": "스토리 구조",
+        "description": "강력한 구조화 도구로 스토리를 체계적으로 정리하세요."
       },
       "sceneEditor": {
-        "title": "Scene Editor",
-        "description": "Edit and refine your scenes with precision."
+        "title": "장면 편집기",
+        "description": "정확하게 장면을 편집하고 다듬으세요."
       },
       "aiTools": {
-        "title": "AI-Assisted Tools",
-        "description": "Enhance your writing with AI-powered suggestions."
+        "title": "AI 지원 도구",
+        "description": "AI 기반 추천으로 글쓰기를 향상시켜보세요."
       }
     },
     "Testimonials": {
-      "title": "What Our Users Say",
+      "title": "사용자 후기",
       "testimonial1": {
-        "name": "Sarah Johnson",
-        "role": "Screenwriter",
-        "content": "ScriptCraft has revolutionized my writing process. The character profile generator is a game-changer!"
+        "name": "사라 존슨",
+        "role": "시나리오 작가",
+        "content": "스크립트크래프트 덕분에 제 글쓰기 과정이 혁신적으로 변했어요. 캐릭터 프로필 생성기는 정말 게임 체인저입니다!"
       },
       "testimonial2": {
-        "name": "Michael Lee",
-        "role": "Film Director",
-        "content": "The scene editor in ScriptCraft makes it so easy to visualize and refine each moment of the story."
+        "name": "마이클 리",
+        "role": "영화 감독",
+        "content": "스크립트크래프트의 장면 편집기는 각 순간을 시각화하고 다듬는 데 매우 유용해요."
       },
       "testimonial3": {
-        "name": "Emily Rodriguez",
-        "role": "TV Producer",
-        "content": "The AI-assisted tools have helped me overcome writer's block countless times. Highly recommended!"
+        "name": "에밀리 로드리게스",
+        "role": "TV 프로듀서",
+        "content": "AI 지원 도구 덕분에 수많은 작가의 막힘을 극복할 수 있었어요. 강력 추천합니다!"
       }
+    },
+    "Header": {
+      "workflow": "워크플로우",
+      "features": "기능",
+      "about": "소개",
+      "pricing": "가격",
+      "signUp": "회원가입"
+    },
+    "Footer": {
+      "about": "소개",
+      "team": "팀",
+      "jobs": "채용",
+      "press": "언론",
+      "resources": "자원",
+      "blog": "블로그",
+      "helpCenter": "도움말 센터",
+      "tutorials": "튜토리얼",
+      "contact": "연락처",
+      "email": "support@scriptcraft.com",
+      "address1": "스크린라이터 레인 123번지",
+      "address2": "할리우드, CA 90028",
+      "cta": "지금 시나리오 작성 여정을 시작하세요",
+      "startFreeTrial": "무료 체험 시작하기",
+      "copyright": "© 2023 스크립트크래프트. 모든 권리 보유."
+    },
+    "ProductShowcase": {
+      "title": "스토리를 하나하나 구성하세요",
+      "imageAlt": "스크립트크래프트 인터페이스"
     }
   },
   "OneLinerStory": {
-    "title": "One-Liner Story",
-    "keywordsPlaceholder": "Enter keywords, separated by commas",
-    "generateButton": "Generate Story",
-    "result": "Generated Story",
-    "generatedStory": "A story about"
+    "title": "원라이너 스토리",
+    "keywordsPlaceholder": "쉼표로 구분하여 키워드를 입력하세요",
+    "generateButton": "스토리 생성하기",
+    "result": "생성된 스토리",
+    "generatedStory": "에 대한 이야기"
   },
   "CharacterDesign": {
-    "title": "Character Design",
-    "nameLabel": "Name",
-    "namePlaceholder": "Enter character name",
-    "backgroundLabel": "Background",
-    "backgroundPlaceholder": "Describe character's background",
-    "personalityLabel": "Personality",
-    "personalityPlaceholder": "Describe character's personality",
-    "goalLabel": "Goal",
-    "goalPlaceholder": "What is the character's main goal?",
-    "obstacleLabel": "Obstacle",
-    "obstaclePlaceholder": "What is the main obstacle for the character?",
-    "generateSuggestionButton": "Get AI Suggestion",
-    "aiSuggestionTitle": "AI Suggestion",
-    "aiSuggestionPlaceholder": "Based on the character details, consider..."
+    "title": "캐릭터 디자인",
+    "nameLabel": "이름",
+    "namePlaceholder": "캐릭터 이름을 입력하세요",
+    "backgroundLabel": "배경",
+    "backgroundPlaceholder": "캐릭터의 배경을 설명하세요",
+    "personalityLabel": "성격",
+    "personalityPlaceholder": "캐릭터의 성격을 설명하세요",
+    "goalLabel": "목표",
+    "goalPlaceholder": "캐릭터의 주된 목표는 무엇인가요?",
+    "obstacleLabel": "장애물",
+    "obstaclePlaceholder": "캐릭터의 주요 장애물은 무엇인가요?",
+    "generateSuggestionButton": "AI 추천 받기",
+    "aiSuggestionTitle": "AI 추천",
+    "aiSuggestionPlaceholder": "캐릭터 세부 사항을 기반으로 고려해보세요..."
   },
   "StoryType": {
-    "title": "Story Type",
-    "learnMoreButton": "Learn More",
+    "title": "스토리 유형",
+    "learnMoreButton": "더 알아보기",
     "types": {
       "monsterInTheHouse": {
-        "name": "Monster in the House",
-        "description": "A story where characters are trapped with a monster..."
+        "name": "집안의 괴물",
+        "description": "캐릭터들이 괴물과 함께 갇혀 있는 이야기..."
       },
       "goldenFleece": {
-        "name": "Golden Fleece",
-        "description": "A quest narrative where characters journey to find a prize..."
+        "name": "황금 양모",
+        "description": "캐릭터들이 상을 찾기 위해 여정을 떠나는 이야기..."
       }
     }
   },
   "Dashboard": {
-    "title": "Dashboard",
-    "productName": "ScriptCraft",
-    "welcome": "Welcome to AI Novel Assistant",
-    "selectFeature": "Please select a feature from the sidebar to get started.",
-    "oneLiner": "One-Liner Story",
-    "marketResearch": "Market Research",
-    "storyType": "Story Type",
-    "characterDesign": "Character Design",
-    "storyStructure": "Story Structure",
-    "writing": "Writing",
-    "revision": "Revision"
+    "title": "대시보드",
+    "productName": "스크립트크래프트",
+    "welcome": "AI 소설 도우미에 오신 것을 환영합니다",
+    "selectFeature": "시작하려면 사이드바에서 기능을 선택하세요.",
+    "oneLiner": "원라이너 스토리",
+    "marketResearch": "시장 조사",
+    "storyType": "스토리 유형",
+    "characterDesign": "캐릭터 디자인",
+    "storyStructure": "스토리 구조",
+    "writing": "작성",
+    "revision": "수정"
   },
   "OneLiner": {
-    "title": "Create One-Liner Story",
-    "keywords": "Keywords",
-    "keywordsPlaceholder": "Enter keywords, separated by commas",
-    "clear": "Clear",
-    "genre": "Story Genre",
-    "genrePlaceholder": "E.g., Sci-Fi, Fantasy, Mystery",
-    "complexity": "Story Complexity",
-    "aiEnhancement": "AI Enhancement",
-    "generateButton": "Generate One-Liner Story",
-    "generatedStory": "Generated Story",
-    "generatedStoryPrefix": "In a",
-    "generatedStorySuffix": "world,"
+    "title": "원라이너 스토리 작성하기",
+    "keywords": "키워드",
+    "keywordsPlaceholder": "쉼표로 구분하여 키워드를 입력하세요",
+    "clear": "지우기",
+    "genre": "스토리 장르",
+    "genrePlaceholder": "예: SF, 판타지, 미스터리",
+    "complexity": "스토리 복잡성",
+    "aiEnhancement": "AI 향상",
+    "generateButton": "원라이너 스토리 생성",
+    "generatedStory": "생성된 스토리",
+    "generatedStoryPrefix": "하나의",
+    "generatedStorySuffix": "세계에서,"
   },
   "MarketResearch": {
-    "title": "Market Research Analysis",
-    "storyIdeaLabel": "Your Story Idea",
-    "storyIdeaPlaceholder": "Briefly describe your story idea",
-    "analyzeButton": "Analyze Market Trends",
-    "popularityChart": "Genre Popularity",
-    "targetAudience": "Target Audience",
-    "marketTrends": "Market Trends",
-    "competitiveAnalysis": "Competitive Analysis",
-    "genres": "Sci-Fi,Fantasy,Mystery,Romance,Adventure",
-    "targetAudienceResult": "Young readers aged 18-35, interested in technology and future worlds",
-    "marketTrendsResult": "Sci-Fi themes remain popular, especially those involving AI and climate change",
-    "competitiveAnalysisResult": "Few similar works in the market, great potential for development"
+    "title": "시장 조사 분석",
+    "storyIdeaLabel": "당신의 스토리 아이디어",
+    "storyIdeaPlaceholder": "스토리 아이디어를 간단히 설명하세요",
+    "analyzeButton": "시장 트렌드 분석",
+    "popularityChart": "장르 인기",
+    "targetAudience": "타겟 독자층",
+    "marketTrends": "시장 트렌드",
+    "competitiveAnalysis": "경쟁 분석",
+    "genres": "SF,판타지,미스터리,로맨스,모험",
+    "targetAudienceResult": "기술과 미래 세계에 관심이 있는 18-35세의 젊은 독자",
+    "marketTrendsResult": "특히 AI와 기후 변화가 포함된 SF 테마가 여전히 인기가 많음",
+    "competitiveAnalysisResult": "유사 작품이 거의 없으므로 발전 가능성이 큼"
   },
   "Revision": {
-    "title": "Revision",
-    "textareaPlaceholder": "Enter your text here",
-    "getAISuggestions": "Get AI Suggestions",
-    "allSuggestions": "All Suggestions",
-    "grammar": "Grammar",
-    "style": "Style",
-    "structure": "Structure",
-    "type": "Type",
-    "sampleText": "This is a sample paragraph. There might be some grammatical errors and unclear expressions here. The author might want to improve the structure and word choice of this paragraph.",
-    "grammarSuggestion": "The second sentence lacks a subject, consider adding one.",
-    "styleSuggestion": "Consider using more specific descriptions instead of 'some'.",
-    "structureSuggestion": "This paragraph could be strengthened by adding a topic sentence."
+    "title": "수정",
+    "textareaPlaceholder": "여기에 텍스트를 입력하세요",
+    "getAISuggestions": "AI 추천 받기",
+    "allSuggestions": "모든 추천",
+    "grammar": "문법",
+    "style": "스타일",
+    "structure": "구조",
+    "type": "유형",
+    "sampleText": "이것은 샘플 문단입니다. 여기에는 문법 오류와 불명확한 표현이 있을 수 있습니다. 작성자는 이 문단의 구조와 단어 선택을 개선하고 싶을 수 있습니다.",
+    "grammarSuggestion": "두 번째 문장은 주어가 부족합니다. 주어를 추가하는 것을 고려해 보세요.",
+    "styleSuggestion": "‘몇몇’ 대신 더 구체적인 설명을 사용하는 것을 고려해 보세요.",
+    "structureSuggestion": "이 문단은 주제를 추가해서 더 강력해질 수 있습니다."
   },
   "StoryStructure": {
-    "title": "Story Structure",
-    "openingLabel": "Opening",
-    "openingPlaceholder": "Describe the opening scene",
-    "incitingIncidentLabel": "Inciting Incident",
-    "incitingIncidentPlaceholder": "What event sets the story in motion?",
-    "risingActionLabel": "Rising Action",
-    "risingActionPlaceholder": "Describe the events leading to the climax",
-    "midpointLabel": "Midpoint",
-    "midpointPlaceholder": "What major event occurs in the middle?",
-    "crisisLabel": "Crisis",
-    "crisisPlaceholder": "Describe the moment of greatest tension",
-    "climaxLabel": "Climax",
-    "climaxPlaceholder": "How does the main conflict come to a head?",
-    "resolutionLabel": "Resolution",
-    "resolutionPlaceholder": "How does the story end?",
-    "getAISuggestionButton": "Get AI Structure Suggestion",
-    "aiSuggestionTitle": "AI Structure Suggestion",
-    "aiSuggestionPlaceholder": "Based on your story structure, consider adding some description of everyday life between the opening and the inciting incident. This will help readers better understand the protagonist's normal world."
+    "title": "스토리 구조",
+    "openingLabel": "시작",
+    "openingPlaceholder": "시작 장면을 설명하세요",
+    "incitingIncidentLabel": "고조 사건",
+    "incitingIncidentPlaceholder": "스토리를 시작하게 하는 사건은 무엇인가요?",
+    "risingActionLabel": "상승 액션",
+    "risingActionPlaceholder": "클라이맥스로 이끄는 이벤트를 설명하세요",
+    "midpointLabel": "중간",
+    "midpointPlaceholder": "중간에 어떤 주요 사건이 발생하나요?",
+    "crisisLabel": "위기",
+    "crisisPlaceholder": "최대 긴장 순간을 설명하세요",
+    "climaxLabel": "클라이맥스",
+    "climaxPlaceholder": "주요 갈등이 어떻게 절정에 달하나요?",
+    "resolutionLabel": "결말",
+    "resolutionPlaceholder": "스토리가 어떻게 끝나나요?",
+    "getAISuggestionButton": "AI 구조 추천 받기",
+    "aiSuggestionTitle": "AI 구조 추천",
+    "aiSuggestionPlaceholder": "스토리 구조를 기반으로, 시작과 고조 사건 사이에 일상 생활을 묘사하는 것을 고려해 보세요. 독자가 주인공의 일상 세계를 더 잘 이해할 수 있도록 도와줍니다."
   },
   "StoryTypeSelector": {
-    "title": "Select Story Type",
-    "backToFlow": "Back to Flow",
-    "typeDetails": "Type Details",
-    "viewClassicExamples": "View Classic Examples",
+    "title": "스토리 유형 선택",
+    "backToFlow": "플로우로 돌아가기",
+    "typeDetails": "유형 세부 사항",
+    "viewClassicExamples": "고전적인 예제 보기",
     "storyTypes": [
       {
         "id": "monster",
-        "name": "Monster in the House",
-        "description": "A closed space and a scary monster create tension. The protagonist's goal is to avoid being eaten."
+        "name": "집안의 괴물",
+        "description": "닫힌 공간과 무서운 괴물이 긴장감을 조성합니다. 주인공의 목표는 먹히지 않는 것입니다."
       },
       {
         "id": "goldenFleece",
-        "name": "Golden Fleece",
-        "description": "A journey story where the adventure process is not important, what matters is the protagonist's inner growth and transformation."
+        "name": "황금 양모",
+        "description": "모험의 과정이 중요하지 않은 여정 이야기로, 중요한 것은 주인공의 내적 성장과 변화입니다."
       },
       {
         "id": "wishFulfillment",
-        "name": "Wish Fulfillment",
-        "description": "The protagonist has always been oppressed by those around them and hopes to escape this predicament. But after the wish comes true, they realize that being an ordinary person is the best."
+        "name": "소원 성취",
+        "description": "주인공은 항상 주위 사람들에게 억압당해왔고 이 곤경을 벗어나기를 바랍니다. 하지만 소원이 이루어진 후, 보통 사람으로 사는 것이 최선임을 깨닫습니다."
       },
       {
         "id": "outOfBottle",
-        "name": "Out of the Bottle",
-        "description": "The protagonist is a troublemaker, but there are some remnants of conscience in them. After a series of events, they finally succeed in changing themselves and achieving growth."
+        "name": "병에서 나온 이야기",
+        "description": "주인공은 말썽쟁이지만 양심의 잔재가 있습니다. 일련의 사건들을 겪으며 마침내 자신을 변화시키고 성장을 이룹니다."
       },
       {
         "id": "dilemma",
-        "name": "Dilemma",
-        "description": "It's about an ordinary person trapped in a predicament. To get out of the predicament, they must first overcome themselves. The quality of the story depends on the contrast between the predicament and the protagonist."
+        "name": "딜레마",
+        "description": "평범한 사람이 곤경에 빠진 이야기가 중심입니다. 곤경에서 벗어나기 위해서는 먼저 자신을 극복해야 합니다. 이야기가 얼마나 좋을지는 곤경과 주인공의 대조에 달려 있습니다."
       }
     ]
   },
   "Writing": {
-    "selectChapter": "Select Chapter",
-    "chapter": "Chapter {number}",
-    "wordCount": "Word Count: {count}",
-    "startWriting": "Start your writing...",
-    "getAISuggestion": "Get AI Suggestion",
-    "saveDraft": "Save Draft",
-    "aiWritingSuggestion": "AI Writing Suggestion",
-    "aiSuggestionPlaceholder": "AI-generated suggestions will appear here.",
-    "writingTips": "Writing Tips",
+    "selectChapter": "장 선택",
+    "chapter": "장 {number}",
+    "wordCount": "단어 수: {count}",
+    "startWriting": "글쓰기를 시작하세요...",
+    "getAISuggestion": "AI 추천 받기",
+    "saveDraft": "초안 저장",
+    "aiWritingSuggestion": "AI 글쓰기 추천",
+    "aiSuggestionPlaceholder": "AI 생성 추천이 여기에 표시됩니다.",
+    "writingTips": "글쓰기 팁",
     "tips": [
-      "Maintain consistency in plot and character development",
-      "Use rich sensory descriptions to enhance the realism of scenes",
-      "Show character personalities and relationships through dialogue and actions",
-      "Pay attention to rhythm changes, add climaxes and turning points at appropriate times",
-      "Regularly review your story outline to ensure the direction of your story"
+      "플롯과 캐릭터 개발의 일관성을 유지하세요",
+      "장면의 현실감을 높이기 위해 풍부한 감각적 묘사를 사용하세요",
+      "대화와 행동을 통해 캐릭터의 성격과 관계를 보여주세요",
+      "리듬 변화를 신경 쓰고, 적절한 시점에 클라이맥스와 전환점을 추가하세요",
+      "일정하게 스토리 줄거리를 검토하여 이야기의 방향을 확인하세요"
     ]
   }
 }

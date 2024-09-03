@@ -1,216 +1,244 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "アイデアから脚本まで、AIがあなたをサポート。"
+    "solgan": "アイデアから脚本まで、AIがサポート"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "The ultimate screenwriting workflow platform",
-      "description": "Craft your story, scene by scene. Elevate your screenwriting process with our intuitive tools and collaborative features.",
-      "cta": "Get Started"
+      "title": "究極の脚本作成ワークフロープラットフォーム",
+      "description": "シーンごとに物語を作成。直感的なツールと共同機能で脚本作成プロセスを向上させましょう。",
+      "cta": "始める"
     },
     "Features": {
-      "title": "Key Features",
+      "title": "主な特徴",
       "characterProfile": {
-        "title": "Character Profile Generator",
-        "description": "Create detailed character profiles with ease."
+        "title": "キャラクター・プロフィール生成",
+        "description": "詳細なキャラクタープロフィールを簡単に作成できます。"
       },
       "storyStructure": {
-        "title": "Story Structure",
-        "description": "Organize your story with powerful structuring tools."
+        "title": "ストーリー構造",
+        "description": "強力な構造ツールで物語を整理しましょう。"
       },
       "sceneEditor": {
-        "title": "Scene Editor",
-        "description": "Edit and refine your scenes with precision."
+        "title": "シーンエディター",
+        "description": "正確にシーンを編集および改善します。"
       },
       "aiTools": {
-        "title": "AI-Assisted Tools",
-        "description": "Enhance your writing with AI-powered suggestions."
+        "title": "AIアシストツール",
+        "description": "AIパワーの提案で執筆を強化します。"
       }
     },
     "Testimonials": {
-      "title": "What Our Users Say",
+      "title": "ユーザーの声",
       "testimonial1": {
-        "name": "Sarah Johnson",
-        "role": "Screenwriter",
-        "content": "ScriptCraft has revolutionized my writing process. The character profile generator is a game-changer!"
+        "name": "サラ・ジョンソン",
+        "role": "脚本家",
+        "content": "ScriptCraftは私の執筆プロセスを革命的に変えました。キャラクタープロフィール生成はゲームチェンジャーです！"
       },
       "testimonial2": {
-        "name": "Michael Lee",
-        "role": "Film Director",
-        "content": "The scene editor in ScriptCraft makes it so easy to visualize and refine each moment of the story."
+        "name": "マイケル・リー",
+        "role": "映画監督",
+        "content": "ScriptCraftのシーンエディターは物語の各瞬間を視覚化して改善するのにとても役立ちます。"
       },
       "testimonial3": {
-        "name": "Emily Rodriguez",
-        "role": "TV Producer",
-        "content": "The AI-assisted tools have helped me overcome writer's block countless times. Highly recommended!"
+        "name": "エミリー・ロドリゲス",
+        "role": "テレビプロデューサー",
+        "content": "AIアシストツールのおかげで、何度も作家ブロックを乗り越えることができました。おすすめです！"
       }
+    },
+    "Header": {
+      "workflow": "ワークフロー",
+      "features": "特徴",
+      "about": "会社情報",
+      "pricing": "料金",
+      "signUp": "登録"
+    },
+    "Footer": {
+      "about": "会社情報",
+      "team": "チーム",
+      "jobs": "採用情報",
+      "press": "プレス",
+      "resources": "リソース",
+      "blog": "ブログ",
+      "helpCenter": "ヘルプセンター",
+      "tutorials": "チュートリアル",
+      "contact": "お問い合わせ",
+      "email": "support@scriptcraft.com",
+      "address1": "123 スクリーンライター・レーン",
+      "address2": "ハリウッド, CA 90028",
+      "cta": "今日から脚本の旅を始めましょう",
+      "startFreeTrial": "無料体験を始める",
+      "copyright": "© 2023 ScriptCraft. All rights reserved."
+    },
+    "ProductShowcase": {
+      "title": "シーンごとに物語を作成",
+      "imageAlt": "ScriptCraftのインターフェース"
     }
   },
   "OneLinerStory": {
-    "title": "One-Liner Story",
-    "keywordsPlaceholder": "Enter keywords, separated by commas",
-    "generateButton": "Generate Story",
-    "result": "Generated Story",
-    "generatedStory": "A story about"
+    "title": "ワンライナーストーリー",
+    "keywordsPlaceholder": "カンマ区切りでキーワードを入力",
+    "generateButton": "ストーリーを生成",
+    "result": "生成されたストーリー",
+    "generatedStory": "に関するストーリー"
   },
   "CharacterDesign": {
-    "title": "Character Design",
-    "nameLabel": "Name",
-    "namePlaceholder": "Enter character name",
-    "backgroundLabel": "Background",
-    "backgroundPlaceholder": "Describe character's background",
-    "personalityLabel": "Personality",
-    "personalityPlaceholder": "Describe character's personality",
-    "goalLabel": "Goal",
-    "goalPlaceholder": "What is the character's main goal?",
-    "obstacleLabel": "Obstacle",
-    "obstaclePlaceholder": "What is the main obstacle for the character?",
-    "generateSuggestionButton": "Get AI Suggestion",
-    "aiSuggestionTitle": "AI Suggestion",
-    "aiSuggestionPlaceholder": "Based on the character details, consider..."
+    "title": "キャラクターデザイン",
+    "nameLabel": "名前",
+    "namePlaceholder": "キャラクター名を入力",
+    "backgroundLabel": "背景",
+    "backgroundPlaceholder": "キャラクターの背景を説明",
+    "personalityLabel": "性格",
+    "personalityPlaceholder": "キャラクターの性格を説明",
+    "goalLabel": "目標",
+    "goalPlaceholder": "キャラクターの主な目標は何ですか？",
+    "obstacleLabel": "障害",
+    "obstaclePlaceholder": "キャラクターにとっての主な障害は何ですか？",
+    "generateSuggestionButton": "AIの提案を取得",
+    "aiSuggestionTitle": "AIの提案",
+    "aiSuggestionPlaceholder": "キャラクターの詳細に基づいて、次のことを考慮してください..."
   },
   "StoryType": {
-    "title": "Story Type",
-    "learnMoreButton": "Learn More",
+    "title": "ストーリータイプ",
+    "learnMoreButton": "もっと詳しく",
     "types": {
       "monsterInTheHouse": {
-        "name": "Monster in the House",
-        "description": "A story where characters are trapped with a monster..."
+        "name": "モンスターインザハウス",
+        "description": "キャラクターがモンスターと一緒に閉じ込められている話..."
       },
       "goldenFleece": {
-        "name": "Golden Fleece",
-        "description": "A quest narrative where characters journey to find a prize..."
+        "name": "ゴールデンフリース",
+        "description": "キャラクターが賞品を求めて旅をするクエスト物語..."
       }
     }
   },
   "Dashboard": {
-    "title": "Dashboard",
+    "title": "ダッシュボード",
     "productName": "ScriptCraft",
-    "welcome": "Welcome to AI Novel Assistant",
-    "selectFeature": "Please select a feature from the sidebar to get started.",
-    "oneLiner": "One-Liner Story",
-    "marketResearch": "Market Research",
-    "storyType": "Story Type",
-    "characterDesign": "Character Design",
-    "storyStructure": "Story Structure",
-    "writing": "Writing",
-    "revision": "Revision"
+    "welcome": "AIノベルアシスタントへようこそ",
+    "selectFeature": "サイドバーから機能を選択して開始してください。",
+    "oneLiner": "ワンライナーストーリー",
+    "marketResearch": "市場調査",
+    "storyType": "ストーリータイプ",
+    "characterDesign": "キャラクターデザイン",
+    "storyStructure": "ストーリー構造",
+    "writing": "執筆",
+    "revision": "修正"
   },
   "OneLiner": {
-    "title": "Create One-Liner Story",
-    "keywords": "Keywords",
-    "keywordsPlaceholder": "Enter keywords, separated by commas",
-    "clear": "Clear",
-    "genre": "Story Genre",
-    "genrePlaceholder": "E.g., Sci-Fi, Fantasy, Mystery",
-    "complexity": "Story Complexity",
-    "aiEnhancement": "AI Enhancement",
-    "generateButton": "Generate One-Liner Story",
-    "generatedStory": "Generated Story",
-    "generatedStoryPrefix": "In a",
-    "generatedStorySuffix": "world,"
+    "title": "ワンライナーストーリーを作成",
+    "keywords": "キーワード",
+    "keywordsPlaceholder": "カンマ区切りでキーワードを入力",
+    "clear": "クリア",
+    "genre": "ストーリーのジャンル",
+    "genrePlaceholder": "例：SF, ファンタジー, ミステリー",
+    "complexity": "ストーリーの複雑さ",
+    "aiEnhancement": "AI強化",
+    "generateButton": "ワンライナーストーリーを生成",
+    "generatedStory": "生成されたストーリー",
+    "generatedStoryPrefix": "における",
+    "generatedStorySuffix": "の世界で、"
   },
   "MarketResearch": {
-    "title": "Market Research Analysis",
-    "storyIdeaLabel": "Your Story Idea",
-    "storyIdeaPlaceholder": "Briefly describe your story idea",
-    "analyzeButton": "Analyze Market Trends",
-    "popularityChart": "Genre Popularity",
-    "targetAudience": "Target Audience",
-    "marketTrends": "Market Trends",
-    "competitiveAnalysis": "Competitive Analysis",
-    "genres": "Sci-Fi,Fantasy,Mystery,Romance,Adventure",
-    "targetAudienceResult": "Young readers aged 18-35, interested in technology and future worlds",
-    "marketTrendsResult": "Sci-Fi themes remain popular, especially those involving AI and climate change",
-    "competitiveAnalysisResult": "Few similar works in the market, great potential for development"
+    "title": "市場調査分析",
+    "storyIdeaLabel": "ストーリーのアイデア",
+    "storyIdeaPlaceholder": "ストーリーアイデアを簡潔に説明",
+    "analyzeButton": "市場トレンドを分析",
+    "popularityChart": "ジャンルの人気",
+    "targetAudience": "ターゲット層",
+    "marketTrends": "市場トレンド",
+    "competitiveAnalysis": "競争分析",
+    "genres": "SF,ファンタジー,ミステリー,ロマンス,アドベンチャー",
+    "targetAudienceResult": "テクノロジーや未来の世界に興味を持つ18-35歳の若者",
+    "marketTrendsResult": "特にAIや気候変動をテーマにしたSFが人気を維持",
+    "competitiveAnalysisResult": "類似作品が少なく、開発の大きな可能性"
   },
   "Revision": {
-    "title": "Revision",
-    "textareaPlaceholder": "Enter your text here",
-    "getAISuggestions": "Get AI Suggestions",
-    "allSuggestions": "All Suggestions",
-    "grammar": "Grammar",
-    "style": "Style",
-    "structure": "Structure",
-    "type": "Type",
-    "sampleText": "This is a sample paragraph. There might be some grammatical errors and unclear expressions here. The author might want to improve the structure and word choice of this paragraph.",
-    "grammarSuggestion": "The second sentence lacks a subject, consider adding one.",
-    "styleSuggestion": "Consider using more specific descriptions instead of 'some'.",
-    "structureSuggestion": "This paragraph could be strengthened by adding a topic sentence."
+    "title": "修正",
+    "textareaPlaceholder": "ここにテキストを入力",
+    "getAISuggestions": "AIの提案を取得",
+    "allSuggestions": "すべての提案",
+    "grammar": "文法",
+    "style": "スタイル",
+    "structure": "構造",
+    "type": "種類",
+    "sampleText": "これはサンプル段落です。ここにはいくつかの文法的な間違いや不明確な表現が含まれているかもしれません。著者はこの段落の構造と単語の選び方を改善する必要があるかもしれません。",
+    "grammarSuggestion": "2番目の文には主語がなく、追加を検討してください。",
+    "styleSuggestion": "「いくつか」を使用する代わりに、より具体的な説明を検討してください。",
+    "structureSuggestion": "この段落を強化するために、トピックセントンスを追加することを検討してください。"
   },
   "StoryStructure": {
-    "title": "Story Structure",
-    "openingLabel": "Opening",
-    "openingPlaceholder": "Describe the opening scene",
-    "incitingIncidentLabel": "Inciting Incident",
-    "incitingIncidentPlaceholder": "What event sets the story in motion?",
-    "risingActionLabel": "Rising Action",
-    "risingActionPlaceholder": "Describe the events leading to the climax",
-    "midpointLabel": "Midpoint",
-    "midpointPlaceholder": "What major event occurs in the middle?",
-    "crisisLabel": "Crisis",
-    "crisisPlaceholder": "Describe the moment of greatest tension",
-    "climaxLabel": "Climax",
-    "climaxPlaceholder": "How does the main conflict come to a head?",
-    "resolutionLabel": "Resolution",
-    "resolutionPlaceholder": "How does the story end?",
-    "getAISuggestionButton": "Get AI Structure Suggestion",
-    "aiSuggestionTitle": "AI Structure Suggestion",
-    "aiSuggestionPlaceholder": "Based on your story structure, consider adding some description of everyday life between the opening and the inciting incident. This will help readers better understand the protagonist's normal world."
+    "title": "ストーリー構造",
+    "openingLabel": "オープニング",
+    "openingPlaceholder": "オープニングシーンを説明",
+    "incitingIncidentLabel": "発端",
+    "incitingIncidentPlaceholder": "ストーリーを始動させる出来事は何ですか？",
+    "risingActionLabel": "上昇アクション",
+    "risingActionPlaceholder": "クライマックスに至るまでの出来事を説明",
+    "midpointLabel": "中間点",
+    "midpointPlaceholder": "中盤に起こる重要な出来事は？",
+    "crisisLabel": "クライシス",
+    "crisisPlaceholder": "緊張が最も高まる瞬間を説明",
+    "climaxLabel": "クライマックス",
+    "climaxPlaceholder": "主要な対立がどう決着するか？",
+    "resolutionLabel": "解決",
+    "resolutionPlaceholder": "ストーリーの終わりをどうしますか？",
+    "getAISuggestionButton": "AI構造提案を取得",
+    "aiSuggestionTitle": "AI構造提案",
+    "aiSuggestionPlaceholder": "ストーリー構造に基づいて、発端とオープニングの間に日常生活の描写を追加することを検討してください。これにより、読者は主人公の通常の世界をよりよく理解できます。"
   },
   "StoryTypeSelector": {
-    "title": "Select Story Type",
-    "backToFlow": "Back to Flow",
-    "typeDetails": "Type Details",
-    "viewClassicExamples": "View Classic Examples",
+    "title": "ストーリータイプを選択",
+    "backToFlow": "元に戻る",
+    "typeDetails": "タイプの詳細",
+    "viewClassicExamples": "クラシックな例を見る",
     "storyTypes": [
       {
         "id": "monster",
-        "name": "Monster in the House",
-        "description": "A closed space and a scary monster create tension. The protagonist's goal is to avoid being eaten."
+        "name": "モンスターインザハウス",
+        "description": "閉ざされた空間と恐ろしいモンスターが緊張を生み出す。主人公の目的は食べられずに逃げること。"
       },
       {
         "id": "goldenFleece",
-        "name": "Golden Fleece",
-        "description": "A journey story where the adventure process is not important, what matters is the protagonist's inner growth and transformation."
+        "name": "ゴールデンフリース",
+        "description": "旅の物語。冒険の過程は重要ではなく、重要なのは主人公の内面的な成長と変革。"
       },
       {
         "id": "wishFulfillment",
-        "name": "Wish Fulfillment",
-        "description": "The protagonist has always been oppressed by those around them and hopes to escape this predicament. But after the wish comes true, they realize that being an ordinary person is the best."
+        "name": "願望成就",
+        "description": "主人公は常に周囲から抑圧されており、この状況から抜け出したいと願っている。しかし、願いが叶った後、普通の人であることが最も幸せだと気づく。"
       },
       {
         "id": "outOfBottle",
-        "name": "Out of the Bottle",
-        "description": "The protagonist is a troublemaker, but there are some remnants of conscience in them. After a series of events, they finally succeed in changing themselves and achieving growth."
+        "name": "魔法からの解放",
+        "description": "主人公はトラブルメーカーですが、良心のかけらが残っています。一連の出来事を経て、最終的には自己改革に成功し、成長を遂げます。"
       },
       {
         "id": "dilemma",
-        "name": "Dilemma",
-        "description": "It's about an ordinary person trapped in a predicament. To get out of the predicament, they must first overcome themselves. The quality of the story depends on the contrast between the predicament and the protagonist."
+        "name": "ジレンマ",
+        "description": "普通の人物が困難に陥る話です。困難を克服するためには、まず自分自身を克服しなければなりません。物語の品質は、困難と主人公の対比によって決まります。"
       }
     ]
   },
   "Writing": {
-    "selectChapter": "Select Chapter",
-    "chapter": "Chapter {number}",
-    "wordCount": "Word Count: {count}",
-    "startWriting": "Start your writing...",
-    "getAISuggestion": "Get AI Suggestion",
-    "saveDraft": "Save Draft",
-    "aiWritingSuggestion": "AI Writing Suggestion",
-    "aiSuggestionPlaceholder": "AI-generated suggestions will appear here.",
-    "writingTips": "Writing Tips",
+    "selectChapter": "章を選択",
+    "chapter": "章 {number}",
+    "wordCount": "単語数: {count}",
+    "startWriting": "執筆を始める...",
+    "getAISuggestion": "AIの提案を取得",
+    "saveDraft": "下書きを保存",
+    "aiWritingSuggestion": "AIの執筆提案",
+    "aiSuggestionPlaceholder": "AI生成の提案がここに表示されます。",
+    "writingTips": "執筆のコツ",
     "tips": [
-      "Maintain consistency in plot and character development",
-      "Use rich sensory descriptions to enhance the realism of scenes",
-      "Show character personalities and relationships through dialogue and actions",
-      "Pay attention to rhythm changes, add climaxes and turning points at appropriate times",
-      "Regularly review your story outline to ensure the direction of your story"
+      "プロットとキャラクターの展開に一貫性を持たせる",
+      "豊かな感覚的な描写を使ってシーンのリアリズムを高める",
+      "対話や行動を通じてキャラクターの性格や関係を見せる",
+      "リズムの変化に注意を払い、適切な時期にクライマックスや転換点を追加する",
+      "定期的に物語の概要を見直し、物語の方向性を確認する"
     ]
   }
 }

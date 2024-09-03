@@ -1,212 +1,244 @@
 {
+  "Product": {
+    "name": "ScriptCraft",
+    "solgan": "Von der Idee zum Drehbuch, KI ist für dich da"
+  },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "The ultimate screenwriting workflow platform",
-      "description": "Craft your story, scene by scene. Elevate your screenwriting process with our intuitive tools and collaborative features.",
-      "cta": "Get Started"
+      "title": "Die ultimative Plattform für Drehbuchworkflow",
+      "description": "Gestalte deine Geschichte Szene für Szene. Verbessere deinen Drehbuchprozess mit unseren intuitiven Werkzeugen und kollaborativen Funktionen.",
+      "cta": "Jetzt loslegen"
     },
     "Features": {
-      "title": "Key Features",
+      "title": "Hauptmerkmale",
       "characterProfile": {
-        "title": "Character Profile Generator",
-        "description": "Create detailed character profiles with ease."
+        "title": "Charakterprofil-Generator",
+        "description": "Erstelle mühelos detaillierte Charakterprofile."
       },
       "storyStructure": {
         "title": "Story Structure",
-        "description": "Organize your story with powerful structuring tools."
+        "description": "Organisiere deine Geschichte mit leistungsstarken Strukturierungswerkzeugen."
       },
       "sceneEditor": {
-        "title": "Scene Editor",
-        "description": "Edit and refine your scenes with precision."
+        "title": "Szenen-Editor",
+        "description": "Bearbeite und verfeinere deine Szenen präzise."
       },
       "aiTools": {
-        "title": "AI-Assisted Tools",
-        "description": "Enhance your writing with AI-powered suggestions."
+        "title": "KI-unterstützte Werkzeuge",
+        "description": "Verbessere dein Schreiben mit KI-gestützten Vorschlägen."
       }
     },
     "Testimonials": {
-      "title": "What Our Users Say",
+      "title": "Was unsere Nutzer sagen",
       "testimonial1": {
         "name": "Sarah Johnson",
-        "role": "Screenwriter",
-        "content": "ScriptCraft has revolutionized my writing process. The character profile generator is a game-changer!"
+        "role": "Drehbuchautor",
+        "content": "ScriptCraft hat meinen Schreibprozess revolutioniert. Der Charakterprofil-Generator ist ein echter Game-Changer!"
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "Film Director",
-        "content": "The scene editor in ScriptCraft makes it so easy to visualize and refine each moment of the story."
+        "role": "Filmregisseur",
+        "content": "Der Szenen-Editor in ScriptCraft macht es so einfach, jeden Moment der Geschichte zu visualisieren und zu verfeinern."
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "TV Producer",
-        "content": "The AI-assisted tools have helped me overcome writer's block countless times. Highly recommended!"
+        "role": "TV-Produzent",
+        "content": "Die KI-unterstützten Werkzeuge haben mir unzählige Male geholfen, Schreibblockaden zu überwinden. Sehr empfehlenswert!"
       }
+    },
+    "Header": {
+      "workflow": "Workflow",
+      "features": "Features",
+      "about": "Über uns",
+      "pricing": "Preise",
+      "signUp": "Registrieren"
+    },
+    "Footer": {
+      "about": "Über uns",
+      "team": "Team",
+      "jobs": "Jobs",
+      "press": "Presse",
+      "resources": "Ressourcen",
+      "blog": "Blog",
+      "helpCenter": "Hilfezentrum",
+      "tutorials": "Tutorials",
+      "contact": "Kontakt",
+      "email": "support@scriptcraft.com",
+      "address1": "123 Drehbuchautoren Straße",
+      "address2": "Hollywood, CA 90028",
+      "cta": "Beginne deine Drehbuchreise noch heute",
+      "startFreeTrial": "Kostenlose Testversion starten",
+      "copyright": "© 2023 ScriptCraft. Alle Rechte vorbehalten."
+    },
+    "ProductShowcase": {
+      "title": "Gestalte deine Geschichte, Szene für Szene",
+      "imageAlt": "ScriptCraft Oberfläche"
     }
   },
   "OneLinerStory": {
-    "title": "One-Liner Story",
-    "keywordsPlaceholder": "Enter keywords, separated by commas",
-    "generateButton": "Generate Story",
-    "result": "Generated Story",
-    "generatedStory": "A story about"
+    "title": "Ein-Zeilen Geschichte",
+    "keywordsPlaceholder": "Gib Stichwörter ein, getrennt durch Kommas",
+    "generateButton": "Geschichte generieren",
+    "result": "Generierte Geschichte",
+    "generatedStory": "Eine Geschichte über"
   },
   "CharacterDesign": {
-    "title": "Character Design",
+    "title": "Charakterdesign",
     "nameLabel": "Name",
-    "namePlaceholder": "Enter character name",
-    "backgroundLabel": "Background",
-    "backgroundPlaceholder": "Describe character's background",
-    "personalityLabel": "Personality",
-    "personalityPlaceholder": "Describe character's personality",
-    "goalLabel": "Goal",
-    "goalPlaceholder": "What is the character's main goal?",
-    "obstacleLabel": "Obstacle",
-    "obstaclePlaceholder": "What is the main obstacle for the character?",
-    "generateSuggestionButton": "Get AI Suggestion",
-    "aiSuggestionTitle": "AI Suggestion",
-    "aiSuggestionPlaceholder": "Based on the character details, consider..."
+    "namePlaceholder": "Gib den Namen des Charakters ein",
+    "backgroundLabel": "Hintergrund",
+    "backgroundPlaceholder": "Beschreibe die Hintergrundgeschichte des Charakters",
+    "personalityLabel": "Persönlichkeit",
+    "personalityPlaceholder": "Beschreibe die Persönlichkeit des Charakters",
+    "goalLabel": "Ziel",
+    "goalPlaceholder": "Was ist das Hauptziel des Charakters?",
+    "obstacleLabel": "Hindernis",
+    "obstaclePlaceholder": "Was ist das größte Hindernis für den Charakter?",
+    "generateSuggestionButton": "KI-Vorschlag erhalten",
+    "aiSuggestionTitle": "KI-Vorschlag",
+    "aiSuggestionPlaceholder": "Basierend auf den Charakterdetails solltest du vielleicht..."
   },
   "StoryType": {
-    "title": "Story Type",
-    "learnMoreButton": "Learn More",
+    "title": "Geschichtstyp",
+    "learnMoreButton": "Mehr erfahren",
     "types": {
       "monsterInTheHouse": {
-        "name": "Monster in the House",
-        "description": "A story where characters are trapped with a monster..."
+        "name": "Monster im Haus",
+        "description": "Eine Geschichte, in der Charaktere mit einem Monster gefangen sind..."
       },
       "goldenFleece": {
-        "name": "Golden Fleece",
-        "description": "A quest narrative where characters journey to find a prize..."
+        "name": "Goldenes Vlies",
+        "description": "Eine Quest-Erzählung, in der Charaktere auf der Suche nach einem Preis sind..."
       }
     }
   },
   "Dashboard": {
     "title": "Dashboard",
     "productName": "ScriptCraft",
-    "welcome": "Welcome to AI Novel Assistant",
-    "selectFeature": "Please select a feature from the sidebar to get started.",
-    "oneLiner": "One-Liner Story",
-    "marketResearch": "Market Research",
-    "storyType": "Story Type",
-    "characterDesign": "Character Design",
+    "welcome": "Willkommen bei AI Novel Assistant",
+    "selectFeature": "Bitte wähle eine Funktion aus der Seitenleiste, um zu beginnen.",
+    "oneLiner": "Ein-Zeilen Geschichte",
+    "marketResearch": "Marktforschung",
+    "storyType": "Geschichtstyp",
+    "characterDesign": "Charakterdesign",
     "storyStructure": "Story Structure",
-    "writing": "Writing",
+    "writing": "Schreiben",
     "revision": "Revision"
   },
   "OneLiner": {
-    "title": "Create One-Liner Story",
-    "keywords": "Keywords",
-    "keywordsPlaceholder": "Enter keywords, separated by commas",
-    "clear": "Clear",
+    "title": "Ein-Zeilen Geschichte erstellen",
+    "keywords": "Stichwörter",
+    "keywordsPlaceholder": "Gib Stichwörter ein, getrennt durch Kommas",
+    "clear": "Löschen",
     "genre": "Story Genre",
-    "genrePlaceholder": "E.g., Sci-Fi, Fantasy, Mystery",
-    "complexity": "Story Complexity",
-    "aiEnhancement": "AI Enhancement",
-    "generateButton": "Generate One-Liner Story",
-    "generatedStory": "Generated Story",
-    "generatedStoryPrefix": "In a",
-    "generatedStorySuffix": "world,"
+    "genrePlaceholder": "z.B. Sci-Fi, Fantasy, Krimi",
+    "complexity": "Komplexität der Geschichte",
+    "aiEnhancement": "KI-Verbesserung",
+    "generateButton": "Ein-Zeilen Geschichte generieren",
+    "generatedStory": "Generierte Geschichte",
+    "generatedStoryPrefix": "In einer",
+    "generatedStorySuffix": "Welt,"
   },
   "MarketResearch": {
-    "title": "Market Research Analysis",
-    "storyIdeaLabel": "Your Story Idea",
-    "storyIdeaPlaceholder": "Briefly describe your story idea",
-    "analyzeButton": "Analyze Market Trends",
-    "popularityChart": "Genre Popularity",
-    "targetAudience": "Target Audience",
-    "marketTrends": "Market Trends",
-    "competitiveAnalysis": "Competitive Analysis",
-    "genres": "Sci-Fi,Fantasy,Mystery,Romance,Adventure",
-    "targetAudienceResult": "Young readers aged 18-35, interested in technology and future worlds",
-    "marketTrendsResult": "Sci-Fi themes remain popular, especially those involving AI and climate change",
-    "competitiveAnalysisResult": "Few similar works in the market, great potential for development"
+    "title": "Marktforschung Analyse",
+    "storyIdeaLabel": "Deine Geschichte-Idee",
+    "storyIdeaPlaceholder": "Beschreibe kurz deine Geschichte-Idee",
+    "analyzeButton": "Markttrends analysieren",
+    "popularityChart": "Beliebtheit der Genres",
+    "targetAudience": "Zielgruppe",
+    "marketTrends": "Markttrends",
+    "competitiveAnalysis": "Wettbewerbsanalyse",
+    "genres": "Sci-Fi,Fantasy,Krimi,Romantik,Abenteuer",
+    "targetAudienceResult": "Junge Leser im Alter von 18-35 Jahren, die sich für Technologie und zukünftige Welten interessieren",
+    "marketTrendsResult": "Sci-Fi-Themen bleiben beliebt, insbesondere solche, die KI und Klimawandel beinhalten",
+    "competitiveAnalysisResult": "Wenig ähnliche Werke auf dem Markt, großes Entwicklungspotenzial"
   },
   "Revision": {
     "title": "Revision",
-    "textareaPlaceholder": "Enter your text here",
-    "getAISuggestions": "Get AI Suggestions",
-    "allSuggestions": "All Suggestions",
-    "grammar": "Grammar",
-    "style": "Style",
-    "structure": "Structure",
-    "type": "Type",
-    "sampleText": "This is a sample paragraph. There might be some grammatical errors and unclear expressions here. The author might want to improve the structure and word choice of this paragraph.",
-    "grammarSuggestion": "The second sentence lacks a subject, consider adding one.",
-    "styleSuggestion": "Consider using more specific descriptions instead of 'some'.",
-    "structureSuggestion": "This paragraph could be strengthened by adding a topic sentence."
+    "textareaPlaceholder": "Gib hier deinen Text ein",
+    "getAISuggestions": "KI-Vorschläge erhalten",
+    "allSuggestions": "Alle Vorschläge",
+    "grammar": "Grammatik",
+    "style": "Stil",
+    "structure": "Struktur",
+    "type": "Typ",
+    "sampleText": "Dies ist ein Beispielabsatz. Hier könnten einige grammatikalische Fehler und unklare Ausdrücke vorhanden sein. Der Autor möchte möglicherweise die Struktur und Wortwahl dieses Absatzes verbessern.",
+    "grammarSuggestion": "Der zweite Satz fehlt ein Subjekt, erwäge eins hinzuzufügen.",
+    "styleSuggestion": "Erwäge spezifischere Beschreibungen anstelle von 'einigen'.",
+    "structureSuggestion": "Dieser Absatz könnte durch das Hinzufügen eines Themensatzes gestärkt werden."
   },
   "StoryStructure": {
     "title": "Story Structure",
-    "openingLabel": "Opening",
-    "openingPlaceholder": "Describe the opening scene",
+    "openingLabel": "Einleitung",
+    "openingPlaceholder": "Beschreibe die Eröffnungsszene",
     "incitingIncidentLabel": "Inciting Incident",
-    "incitingIncidentPlaceholder": "What event sets the story in motion?",
-    "risingActionLabel": "Rising Action",
-    "risingActionPlaceholder": "Describe the events leading to the climax",
+    "incitingIncidentPlaceholder": "Welches Ereignis setzt die Handlung in Gang?",
+    "risingActionLabel": "Steigende Handlung",
+    "risingActionPlaceholder": "Beschreibe die Ereignisse, die zum Höhepunkt führen",
     "midpointLabel": "Midpoint",
-    "midpointPlaceholder": "What major event occurs in the middle?",
-    "crisisLabel": "Crisis",
-    "crisisPlaceholder": "Describe the moment of greatest tension",
-    "climaxLabel": "Climax",
-    "climaxPlaceholder": "How does the main conflict come to a head?",
-    "resolutionLabel": "Resolution",
-    "resolutionPlaceholder": "How does the story end?",
-    "getAISuggestionButton": "Get AI Structure Suggestion",
-    "aiSuggestionTitle": "AI Structure Suggestion",
-    "aiSuggestionPlaceholder": "Based on your story structure, consider adding some description of everyday life between the opening and the inciting incident. This will help readers better understand the protagonist's normal world."
+    "midpointPlaceholder": "Welches wichtige Ereignis tritt in der Mitte auf?",
+    "crisisLabel": "Krise",
+    "crisisPlaceholder": "Beschreibe den Moment größter Spannung",
+    "climaxLabel": "Höhepunkt",
+    "climaxPlaceholder": "Wie kulminiert der Hauptkonflikt?",
+    "resolutionLabel": "Lösung",
+    "resolutionPlaceholder": "Wie endet die Geschichte?",
+    "getAISuggestionButton": "KI-Strukturvorschlag erhalten",
+    "aiSuggestionTitle": "KI-Strukturvorschlag",
+    "aiSuggestionPlaceholder": "Basierend auf deiner Geschichte-Struktur solltest du vielleicht einige alltägliche Szenen zwischen der Eröffnung und dem auslösenden Ereignis hinzufügen. Dies hilft den Lesern, die normale Welt des Protagonisten besser zu verstehen."
   },
   "StoryTypeSelector": {
-    "title": "Select Story Type",
-    "backToFlow": "Back to Flow",
-    "typeDetails": "Type Details",
-    "viewClassicExamples": "View Classic Examples",
+    "title": "Wählen Sie den Geschichtstyp",
+    "backToFlow": "Zurück zum Ablauf",
+    "typeDetails": "Typdetails",
+    "viewClassicExamples": "Klassische Beispiele ansehen",
     "storyTypes": [
       {
         "id": "monster",
-        "name": "Monster in the House",
-        "description": "A closed space and a scary monster create tension. The protagonist's goal is to avoid being eaten."
+        "name": "Monster im Haus",
+        "description": "Ein geschlossener Raum und ein gruseliges Monster schaffen Spannung. Das Ziel des Protagonisten ist es, nicht gefressen zu werden."
       },
       {
         "id": "goldenFleece",
-        "name": "Golden Fleece",
-        "description": "A journey story where the adventure process is not important, what matters is the protagonist's inner growth and transformation."
+        "name": "Goldenes Vlies",
+        "description": "Eine Reisegeschichte, bei der der Abenteuerprozess nicht wichtig ist, was zählt ist das innerliche Wachstum und die Transformation des Protagonisten."
       },
       {
         "id": "wishFulfillment",
-        "name": "Wish Fulfillment",
-        "description": "The protagonist has always been oppressed by those around them and hopes to escape this predicament. But after the wish comes true, they realize that being an ordinary person is the best."
+        "name": "Wunscherfüllung",
+        "description": "Der Protagonist wurde immer von den Menschen um ihn herum unterdrückt und hofft, dieser Misere zu entkommen. Aber nachdem der Wunsch wahr wird, erkennt er, dass es am besten ist, ein gewöhnlicher Mensch zu sein."
       },
       {
         "id": "outOfBottle",
-        "name": "Out of the Bottle",
-        "description": "The protagonist is a troublemaker, but there are some remnants of conscience in them. After a series of events, they finally succeed in changing themselves and achieving growth."
+        "name": "Aus der Flasche",
+        "description": "Der Protagonist ist ein Unruhestifter, aber es gibt einige Reste von Gewissen in ihm. Nach einer Reihe von Ereignissen gelingt es ihm schließlich, sich zu ändern und Wachstum zu erreichen."
       },
       {
         "id": "dilemma",
         "name": "Dilemma",
-        "description": "It's about an ordinary person trapped in a predicament. To get out of the predicament, they must first overcome themselves. The quality of the story depends on the contrast between the predicament and the protagonist."
+        "description": "Es geht um einen gewöhnlichen Menschen, der in einer Notlage gefangen ist. Um aus der Notlage herauszukommen, muss er sich zuerst selbst überwinden. Die Qualität der Geschichte hängt vom Kontrast zwischen der Notlage und dem Protagonisten ab."
       }
     ]
   },
   "Writing": {
-    "selectChapter": "Select Chapter",
-    "chapter": "Chapter {number}",
-    "wordCount": "Word Count: {count}",
-    "startWriting": "Start your writing...",
-    "getAISuggestion": "Get AI Suggestion",
-    "saveDraft": "Save Draft",
-    "aiWritingSuggestion": "AI Writing Suggestion",
-    "aiSuggestionPlaceholder": "AI-generated suggestions will appear here.",
-    "writingTips": "Writing Tips",
+    "selectChapter": "Kapitel auswählen",
+    "chapter": "Kapitel {number}",
+    "wordCount": "Wortanzahl: {count}",
+    "startWriting": "Beginne mit dem Schreiben...",
+    "getAISuggestion": "KI-Vorschlag erhalten",
+    "saveDraft": "Entwurf speichern",
+    "aiWritingSuggestion": "KI-Schreibvorschlag",
+    "aiSuggestionPlaceholder": "Hier erscheinen von der KI generierte Vorschläge.",
+    "writingTips": "Schreib-Tipps",
     "tips": [
-      "Maintain consistency in plot and character development",
-      "Use rich sensory descriptions to enhance the realism of scenes",
-      "Show character personalities and relationships through dialogue and actions",
-      "Pay attention to rhythm changes, add climaxes and turning points at appropriate times",
-      "Regularly review your story outline to ensure the direction of your story"
+      "Halte Konsistenz in der Handlung und Charakterentwicklung aufrecht",
+      "Verwende reiche Sinnesbeschreibungen, um die Realität der Szenen zu verstärken",
+      "Zeige Charakterpersönlichkeiten und -beziehungen durch Dialoge und Handlungen",
+      "Achte auf Rhythmuswechsel, füge an geeigneten Stellen Höhepunkte und Wendepunkte ein",
+      "Überprüfe regelmäßig deine Geschichte-Gliederung, um sicherzustellen, dass die Richtung deiner Geschichte stimmt"
     ]
   }
 }

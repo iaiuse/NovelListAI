@@ -1,0 +1,244 @@
+{
+  "Product": {
+    "name": "ScriptCraft",
+    "solgan": "從靈感到劇本，AI 助你一臂之力"
+  },
+  "LandingPage": {
+    "Index": {
+      "title": "ScriptCraft"
+    },
+    "Hero": {
+      "title": "終極劇本創作工作流程平台",
+      "description": "場景接場景地打造你的故事。利用我們直觀的工具和協作功能提升你的劇本創作過程。",
+      "cta": "立即開始"
+    },
+    "Features": {
+      "title": "主要功能",
+      "characterProfile": {
+        "title": "角色檔案生成器",
+        "description": "輕鬆創建詳細的角色檔案。"
+      },
+      "storyStructure": {
+        "title": "故事結構",
+        "description": "使用強大的結構化工具組織你的故事。"
+      },
+      "sceneEditor": {
+        "title": "場景編輯器",
+        "description": "精準地編輯和修改你的場景。"
+      },
+      "aiTools": {
+        "title": "AI 輔助工具",
+        "description": "利用 AI 驅動的建議提升你的寫作。"
+      }
+    },
+    "Testimonials": {
+      "title": "用戶評價",
+      "testimonial1": {
+        "name": "Sarah Johnson",
+        "role": "編劇",
+        "content": "ScriptCraft 徹底改變了我的寫作過程。角色檔案生成器真的是革命性的創新！"
+      },
+      "testimonial2": {
+        "name": "Michael Lee",
+        "role": "電影導演",
+        "content": "ScriptCraft 的場景編輯器讓可視化和精煉故事的每一刻變得如此簡單。"
+      },
+      "testimonial3": {
+        "name": "Emily Rodriguez",
+        "role": "電視製作人",
+        "content": "AI 輔助工具多次幫助我克服了作家封閉期。強烈推薦！"
+      }
+    },
+    "Header": {
+      "workflow": "工作流程",
+      "features": "功能",
+      "about": "關於我們",
+      "pricing": "價格",
+      "signUp": "註冊"
+    },
+    "Footer": {
+      "about": "關於",
+      "team": "團隊",
+      "jobs": "職位",
+      "press": "新聞",
+      "resources": "資源",
+      "blog": "博客",
+      "helpCenter": "幫助中心",
+      "tutorials": "教程",
+      "contact": "聯繫我們",
+      "email": "support@scriptcraft.com",
+      "address1": "編劇路 123 號",
+      "address2": "好萊塢，CA 90028",
+      "cta": "今天開始你的劇本創作之旅",
+      "startFreeTrial": "開始免費試用",
+      "copyright": "© 2023 ScriptCraft。版權所有。"
+    },
+    "ProductShowcase": {
+      "title": "場景接場景地打造你的故事",
+      "imageAlt": "ScriptCraft 介面"
+    }
+  },
+  "OneLinerStory": {
+    "title": "一句話故事",
+    "keywordsPlaceholder": "輸入關鍵詞，逗號分隔",
+    "generateButton": "生成故事",
+    "result": "生成的故事",
+    "generatedStory": "一個關於的故事"
+  },
+  "CharacterDesign": {
+    "title": "角色設計",
+    "nameLabel": "名稱",
+    "namePlaceholder": "輸入角色名稱",
+    "backgroundLabel": "背景",
+    "backgroundPlaceholder": "描述角色背景",
+    "personalityLabel": "性格",
+    "personalityPlaceholder": "描述角色性格",
+    "goalLabel": "目標",
+    "goalPlaceholder": "角色的主要目標是什麼？",
+    "obstacleLabel": "障礙",
+    "obstaclePlaceholder": "角色面臨的主要障礙是什麼？",
+    "generateSuggestionButton": "獲取 AI 建議",
+    "aiSuggestionTitle": "AI 建議",
+    "aiSuggestionPlaceholder": "根據角色細節，考慮..."
+  },
+  "StoryType": {
+    "title": "故事類型",
+    "learnMoreButton": "了解更多",
+    "types": {
+      "monsterInTheHouse": {
+        "name": "房中的怪物",
+        "description": "一個關於角色與怪物共處的故事..."
+      },
+      "goldenFleece": {
+        "name": "金羊毛",
+        "description": "一個尋找獎品的旅程... "
+      }
+    }
+  },
+  "Dashboard": {
+    "title": "儀表板",
+    "productName": "ScriptCraft",
+    "welcome": "歡迎來到 AI 小說助手",
+    "selectFeature": "請從側欄選擇一個功能開始。",
+    "oneLiner": "一句話故事",
+    "marketResearch": "市場研究",
+    "storyType": "故事類型",
+    "characterDesign": "角色設計",
+    "storyStructure": "故事結構",
+    "writing": "寫作",
+    "revision": "修訂"
+  },
+  "OneLiner": {
+    "title": "創建一句話故事",
+    "keywords": "關鍵詞",
+    "keywordsPlaceholder": "輸入關鍵詞，逗號分隔",
+    "clear": "清除",
+    "genre": "故事類型",
+    "genrePlaceholder": "例如：科幻，奇幻，懸疑",
+    "complexity": "故事複雜性",
+    "aiEnhancement": "AI 增強",
+    "generateButton": "生成一句話故事",
+    "generatedStory": "生成的故事",
+    "generatedStoryPrefix": "在一個",
+    "generatedStorySuffix": "世界裡，"
+  },
+  "MarketResearch": {
+    "title": "市場研究分析",
+    "storyIdeaLabel": "你的故事靈感",
+    "storyIdeaPlaceholder": "簡要描述你的故事靈感",
+    "analyzeButton": "分析市場趨勢",
+    "popularityChart": "類型受歡迎程度",
+    "targetAudience": "目標受眾",
+    "marketTrends": "市場趨勢",
+    "competitiveAnalysis": "競爭分析",
+    "genres": "科幻,奇幻,懸疑,浪漫,冒險",
+    "targetAudienceResult": "18-35 歲的年輕讀者，對科技和未來世界感興趣",
+    "marketTrendsResult": "科幻主題仍然受歡迎，尤其是涉及 AI 和氣候變化的主題",
+    "competitiveAnalysisResult": "市場上類似作品較少，發展潛力巨大"
+  },
+  "Revision": {
+    "title": "修訂",
+    "textareaPlaceholder": "在此處輸入你的文本",
+    "getAISuggestions": "獲取 AI 建議",
+    "allSuggestions": "所有建議",
+    "grammar": "語法",
+    "style": "風格",
+    "structure": "結構",
+    "type": "類型",
+    "sampleText": "這是一個範例段落。這裡可能有一些語法錯誤和不清晰的表達。作者可能希望改進這個段落的結構和用詞選擇。",
+    "grammarSuggestion": "第二句缺少主語，考慮添加一個。",
+    "styleSuggestion": "考慮使用更具體的描述替代“某些”。",
+    "structureSuggestion": "可以通過添加一個主題句來加強這段話。"
+  },
+  "StoryStructure": {
+    "title": "故事結構",
+    "openingLabel": "開場",
+    "openingPlaceholder": "描述開場場景",
+    "incitingIncidentLabel": "激發事件",
+    "incitingIncidentPlaceholder": "什麼事件推動了故事？",
+    "risingActionLabel": "上升行動",
+    "risingActionPlaceholder": "描述導致高潮的事件",
+    "midpointLabel": "中點",
+    "midpointPlaceholder": "中間發生了什麼重大事件？",
+    "crisisLabel": "危機",
+    "crisisPlaceholder": "描述最大的緊張時刻",
+    "climaxLabel": "高潮",
+    "climaxPlaceholder": "主要衝突如何達到頂點？",
+    "resolutionLabel": "結局",
+    "resolutionPlaceholder": "故事如何結束？",
+    "getAISuggestionButton": "獲取 AI 結構建議",
+    "aiSuggestionTitle": "AI 結構建議",
+    "aiSuggestionPlaceholder": "根據你的故事結構，考慮在開場和激發事件之間添加一些日常生活的描述。這將有助於讀者更好地了解主角的正常世界。"
+  },
+  "StoryTypeSelector": {
+    "title": "選擇故事類型",
+    "backToFlow": "返回流程",
+    "typeDetails": "類型詳情",
+    "viewClassicExamples": "查看經典範例",
+    "storyTypes": [
+      {
+        "id": "monster",
+        "name": "房中的怪物",
+        "description": "封閉空間和可怕的怪物營造了緊張氣氛。主角的目標是避免被吃掉。"
+      },
+      {
+        "id": "goldenFleece",
+        "name": "金羊毛",
+        "description": "一個尋找獎品的旅程故事，重點不在冒險過程，而在於主角的內心成長和變化。"
+      },
+      {
+        "id": "wishFulfillment",
+        "name": "願望成真",
+        "description": "主角一直受到周圍人的壓迫，渴望逃脫這一困境。但願望成真後，才發現做一個普通人是最好的。"
+      },
+      {
+        "id": "outOfBottle",
+        "name": "從瓶中出來",
+        "description": "主角是一個麻煩製造者，但他們仍有一些良知的殘留。經歷一系列事件後，他們最終成功改變了自己，實現了成長。"
+      },
+      {
+        "id": "dilemma",
+        "name": "困境",
+        "description": "這是一個關於普通人被困在困境中的故事。要擺脫困境，他們必須先克服自己。故事的質量取決於困境與主角之間的對比。"
+      }
+    ]
+  },
+  "Writing": {
+    "selectChapter": "選擇章節",
+    "chapter": "章節 {number}",
+    "wordCount": "字數：{count}",
+    "startWriting": "開始寫作...",
+    "getAISuggestion": "獲取 AI 建議",
+    "saveDraft": "保存草稿",
+    "aiWritingSuggestion": "AI 寫作建議",
+    "aiSuggestionPlaceholder": "AI 產生的建議將顯示在這裡。",
+    "writingTips": "寫作提示",
+    "tips": [
+      "保持情節和角色發展的一致性",
+      "使用豐富的感官描述來增強場景的真實感",
+      "通過對話和行動展示角色的個性和關係",
+      "注意節奏變化，在適當的時候加入高潮和轉折點",
+      "定期復查你的故事大綱，確保故事方向正確"
+    ]
+  }
+}
