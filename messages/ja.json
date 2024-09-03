@@ -7,11 +7,7 @@
     "Index": {
       "title": "ScriptCraft"
     },
-    "Hero": {
-      "title": "究極の脚本作成ワークフロープラットフォーム",
-      "description": "シーンごとに物語を作成。直感的なツールと共同機能で脚本作成プロセスを向上させましょう。",
-      "cta": "始める"
-    },
+    
     "Features": {
       "title": "主な特徴",
       "characterProfile": {
@@ -19,7 +15,7 @@
         "description": "詳細なキャラクタープロフィールを簡単に作成できます。"
       },
       "storyStructure": {
-        "title": "ストーリー構造",
+        "title": "",
         "description": "強力な構造ツールで物語を整理しましょう。"
       },
       "sceneEditor": {
