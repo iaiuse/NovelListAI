@@ -1,52 +1,52 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "solgan": "鹏欣漫城都荟，精品交付，享受高端生活品质。"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
-      "cta": "开始使用"
+      "title": "鹏欣地产，比期待更精彩",
+      "description": "鹏欣漫城都荟，98-143平米经典户型，中央公园景观，成熟配套，品质至上",
+      "cta": "户型介绍"
     },
     "Features": {
-      "title": "主要功能",
+      "title": "产品推荐",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "户型品鉴",
+        "description": "超高得房率，完美户型品鉴。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "现场实景",
+        "description": "中央公园景观，舒享品质生活。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "教育资源",
+        "description": "大学城配套教育资源，赢在起跑线。"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": "物业服务",
+        "description": "春川物业，三年0投诉保持者。"
       }
     },
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
         "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "role": "大学老师",
+        "content": "漫城都荟真的很不错，交付品质是周边楼盘里最好的，没有之一！"
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "role": "公务员",
+        "content": "漫城都荟的物业真心不错，每次回家都有非常好的体验。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "role": "野生菌专家",
+        "content": "鹏欣地产的几个项目都很高端，漫城都荟是鹏欣的经典作品。强烈推荐！"
       }
     },
     "Header": {
