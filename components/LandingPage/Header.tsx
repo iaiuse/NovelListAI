@@ -10,12 +10,13 @@ import Link from 'next/link';
 
 const Header: React.FC = () => {
   const t = useTranslations('LandingPage.Header');
+  const tProduct = useTranslations('Product');
 
   return (
     <header className="py-4 px-6 flex items-center bg-white">
       <div className="flex items-center flex-grow">
         <Image src="/images/logo.png" alt="ScriptCraft Logo" width={40} height={40} />
-        <span className="text-2xl font-bold ml-2">ScriptCraft</span>
+        <span className="text-2xl font-bold ml-2">{tProduct('name')}</span>
       </div>
       <nav className="flex items-center space-x-6">
         <ul className="flex space-x-6">
