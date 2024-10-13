@@ -1,52 +1,52 @@
 {
   "Product": {
-    "name": "ScriptCraft",
-    "solgan": "From Idea to Screenplay, AI Got Your Back"
+    "name": "AI-Lengua",
+    "solgan": "Language-Learning, AI Supporting"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "AI-Lengua"
     },
     "Hero": {
-      "title": "The ultimate screenwriting workflow platform",
-      "description": "Craft your story, scene by scene. Elevate your screenwriting process with our intuitive tools and collaborative features.",
+      "title": "The ultimate language-learning AI platform",
+      "description": "Personalized study plan. Abundant learning resources. AI-powered realtime conversation, grammar correction, writing evaluation......More features waiting for your exploration!",
       "cta": "Get Started"
     },
     "Features": {
       "title": "Key Features",
       "characterProfile": {
-        "title": "Character Profile Generator",
-        "description": "Create detailed character profiles with ease."
+        "title": "Language-learning Profile Generator",
+        "description": "Create detailed language-learning profiles with ease."
       },
       "storyStructure": {
-        "title": "Story Structure",
-        "description": "Organize your story with powerful structuring tools."
+        "title": "Your Language-study Headteacher",
+        "description": "Make personalized study plans for you based on former students' experience."
       },
       "sceneEditor": {
-        "title": "Scene Editor",
-        "description": "Edit and refine your scenes with precision."
+        "title": "Language-learning Resources",
+        "description": "Powerful database providing abundant learning resources for you."
       },
       "aiTools": {
-        "title": "AI-Assisted Tools",
-        "description": "Enhance your writing with AI-powered suggestions."
+        "title": "AI Assistant",
+        "description": "Enhance your overall abilities with AI-powered features of realtime conversation,grammar correction, writing evaluation etc."
       }
     },
     "Testimonials": {
       "title": "What Our Users Say",
       "testimonial1": {
-        "name": "Sarah Johnson",
-        "role": "Screenwriter",
-        "content": "ScriptCraft has revolutionized my writing process. The character profile generator is a game-changer!"
+        "name": "Shun Ma, Neptuno",
+        "role": "Doctor& SFL Student in Spanish",
+        "content": "Totally changed my whole life.Never bother taking Spanish lessons anymore!"
       },
       "testimonial2": {
-        "name": "Michael Lee",
-        "role": "Film Director",
-        "content": "The scene editor in ScriptCraft makes it so easy to visualize and refine each moment of the story."
+        "name": "Kexuan Wu,Akrios",
+        "role": "Language Lover",
+        "content": "One doesn't need Duolinguo for self-learning Japanese,Korean,French,Russian,Spanish and the language of Yi people."
       },
       "testimonial3": {
-        "name": "Emily Rodriguez",
-        "role": "TV Producer",
-        "content": "The AI-assisted tools have helped me overcome writer's block countless times. Highly recommended!"
+        "name": "Una",
+        "role": "Top-tier Teacher of Changjun Highschool",
+        "content": "A full-full-full-fullfullfull mark!"
       }
     },
     "Header": {
@@ -57,7 +57,7 @@
       "signUp": "Sign Up"
     },
     "Footer": {
-      "about": "About",
+      "about": "About Esperanza",
       "team": "Team",
       "jobs": "Jobs",
       "press": "Press",
@@ -66,16 +66,16 @@
       "helpCenter": "Help Center",
       "tutorials": "Tutorials",
       "contact": "Contact",
-      "email": "support@scriptcraft.com",
-      "address1": "123 Screenwriter Lane",
-      "address2": "Hollywood, CA 90028",
-      "cta": "Start Your Screenwriting Journey Today",
+      "email": "support@esperanza.com",
+      "address1": "Peking University",
+      "address2": "Barcelona, Spain 96110",
+      "cta": "Start Your Lenguage-learning Journey Today",
       "startFreeTrial": "Start Free Trial",
-      "copyright": "© 2023 ScriptCraft. All rights reserved."
+      "copyright": "© 2024 AI-Lengua. All rights reserved."
     },
     "ProductShowcase": {
-      "title": "Craft your story, scene by scene",
-      "imageAlt": "ScriptCraft Interface"
+      "title": "Learn Languages with Tech, Replace SFL with AI",
+      "imageAlt": "AI-Lengua Interface"
     }
   },
   "OneLinerStory": {
