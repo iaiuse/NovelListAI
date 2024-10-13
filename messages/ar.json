@@ -1,1 +1,244 @@
-
+{
+  "Writing": {
+    "selectChapter": "اختر الفصل",
+    "chapter": "الفصل {number}",
+    "wordCount": "عدد الكلمات: {count}",
+    "startWriting": "ابدأ الكتابة...",
+    "getAISuggestion": "احصل على اقتراح من الذكاء الصناعي",
+    "saveDraft": "حفظ المسودة",
+    "aiWritingSuggestion": "اقتراح من الذكاء الصناعي",
+    "aiSuggestionPlaceholder": "ستظهر الاقتراحات التي تم إنشاؤها بواسطة الذكاء الصناعي هنا.",
+    "writingTips": "نصائح الكتابة",
+    "tips": [
+      "الحفاظ على التناسق في تطوير الحبكة والشخصيات",
+      "استخدام أوصاف حسية غنية لتعزيز واقعية المشاهد",
+      "إظهار شخصيات العلاقات من خلال الحوارات والأفعال",
+      "الانتباه إلى تغييرات الإيقاع، وإضافة الذروات ونقاط التحول في الأوقات المناسبة",
+      "مراجعة مخطط القصة بانتظام لضمان اتجاه قصتك"
+    ]
+  },
+  "Product": {
+    "name": "ScriptCraft",
+    "solgan": "من الفكرة إلى السيناريو، الذكاء الصناعي يدعمك"
+  },
+  "LandingPage": {
+    "Index": {
+      "title": "ScriptCraft"
+    },
+    "Hero": {
+      "title": "منصة العمل النهائية لكتابة السيناريو",
+      "description": "اصنع قصتك، مشهدًا بمشهد. قم بتحسين عملية كتابة السيناريو باستخدام أدواتنا البديهية وميزاتها التعاونية.",
+      "cta": "ابدأ الآن"
+    },
+    "Features": {
+      "title": "الميزات الرئيسية",
+      "characterProfile": {
+        "title": "مولد ملفات الشخصيات",
+        "description": "أنشئ ملفات شخصية مفصلة بسهولة."
+      },
+      "storyStructure": {
+        "title": "بنية القصة",
+        "description": "نظم قصتك باستخدام أدوات الهيكلة القوية."
+      },
+      "sceneEditor": {
+        "title": "محرر المشاهد",
+        "description": "تحرير وتنقيح المشاهد بدقة."
+      },
+      "aiTools": {
+        "title": "أدوات مساعدة الذكاء الصناعي",
+        "description": "تعزيز كتابتك باقتراحات مدعومة بالذكاء الصناعي."
+      }
+    },
+    "Testimonials": {
+      "title": "ما يقوله مستخدمونا",
+      "testimonial1": {
+        "name": "سارة جونسون",
+        "role": "كاتبة سيناريو",
+        "content": "سكربت كرافت غير طريقة كتابتي. مولد ملفات الشخصيات مذهل!"
+      },
+      "testimonial2": {
+        "name": "مايكل لي",
+        "role": "مخرج أفلام",
+        "content": "محرر المشاهد في سكربت كرافت يجعل من السهل تصور وتنقيح كل لحظة في القصة."
+      },
+      "testimonial3": {
+        "name": "إميلي رودريغيز",
+        "role": "منتجة تلفزيونية",
+        "content": "الأدوات المدعومة بالذكاء الصناعي ساعدتني في التغلب على تجميد الكتابة مرات عديدة. أنصح به بشدة!"
+      }
+    },
+    "Header": {
+      "workflow": "سير العمل",
+      "features": "الميزات",
+      "about": "حول",
+      "pricing": "التسعير",
+      "signUp": "اشترك الآن"
+    },
+    "Footer": {
+      "about": "حول",
+      "team": "الفريق",
+      "jobs": "الوظائف",
+      "press": "الإعلام",
+      "resources": "الموارد",
+      "blog": "المدونة",
+      "helpCenter": "مركز المساعدة",
+      "tutorials": "الدروس",
+      "contact": "الاتصال",
+      "email": "support@scriptcraft.com",
+      "address1": "123 طريق كاتب السيناريو",
+      "address2": "هوليوود، كاليفورنيا 90028",
+      "cta": "ابدأ رحلتك في كتابة السيناريو اليوم",
+      "startFreeTrial": "ابدأ النسخة التجريبية المجانية",
+      "copyright": "© 2023 سكربت كرافت. جميع الحقوق محفوظة."
+    },
+    "ProductShowcase": {
+      "title": "اصنع قصتك، مشهدًا بمشهد",
+      "imageAlt": "واجهة سكربت كرافت"
+    }
+  },
+  "OneLinerStory": {
+    "title": "قصة من سطر واحد",
+    "keywordsPlaceholder": "أدخل الكلمات الرئيسية، مفصولة بفواصل",
+    "generateButton": "توليد القصة",
+    "result": "القصة المولدة",
+    "generatedStory": "قصة عن"
+  },
+  "CharacterDesign": {
+    "title": "تصميم الشخصية",
+    "nameLabel": "اسم",
+    "namePlaceholder": "أدخل اسم الشخصية",
+    "backgroundLabel": "الخلفية",
+    "backgroundPlaceholder": "صِف خلفية الشخصية",
+    "personalityLabel": "الشخصية",
+    "personalityPlaceholder": "صِف شخصية الشخصية",
+    "goalLabel": "الهدف",
+    "goalPlaceholder": "ما هو الهدف الرئيسي للشخصية؟",
+    "obstacleLabel": "العقبة",
+    "obstaclePlaceholder": "ما هي العقبة الرئيسية للشخصية؟",
+    "generateSuggestionButton": "احصل على اقتراح من الذكاء الصناعي",
+    "aiSuggestionTitle": "اقتراح الذكاء الصناعي",
+    "aiSuggestionPlaceholder": "استنادًا إلى تفاصيل الشخصية، فكر في..."
+  },
+  "StoryType": {
+    "title": "نوع القصة",
+    "learnMoreButton": "تعرف على المزيد",
+    "types": {
+      "monsterInTheHouse": {
+        "name": "الوحش في المنزل",
+        "description": "قصة حيث يُحبس الشخصيات مع وحش..."
+      },
+      "goldenFleece": {
+        "name": "الصوف الذهبي",
+        "description": "قصة رحلة حيث يسعى الشخصيات للعثور على جائزة..."
+      }
+    }
+  },
+  "Dashboard": {
+    "title": "لوحة القيادة",
+    "productName": "ScriptCraft",
+    "welcome": "مرحبًا بك في مساعد الرواية بالذكاء الصناعي",
+    "selectFeature": "يرجى اختيار ميزة من الشريط الجانبي للبدء.",
+    "oneLiner": "قصة من سطر واحد",
+    "marketResearch": "تحليل السوق",
+    "storyType": "نوع القصة",
+    "characterDesign": "تصميم الشخصية",
+    "storyStructure": "بنية القصة",
+    "writing": "كتابة",
+    "revision": "المراجعة"
+  },
+  "OneLiner": {
+    "title": "إنشاء قصة من سطر واحد",
+    "keywords": "الكلمات الرئيسية",
+    "keywordsPlaceholder": "أدخل الكلمات الرئيسية، مفصولة بفواصل",
+    "clear": "مسح",
+    "genre": "نوع القصة",
+    "genrePlaceholder": "مثل الخيال العلمي، الفانتازيا، الغموض",
+    "complexity": "تعقيد القصة",
+    "aiEnhancement": "تحسين بواسطة الذكاء الصناعي",
+    "generateButton": "توليد قصة من سطر واحد",
+    "generatedStory": "القصة المولدة",
+    "generatedStoryPrefix": "في عالم",
+    "generatedStorySuffix": "،"
+  },
+  "MarketResearch": {
+    "title": "تحليل السوق",
+    "storyIdeaLabel": "فكرة القصة",
+    "storyIdeaPlaceholder": "صف بإيجاز فكرة قصتك",
+    "analyzeButton": "تحليل اتجاهات السوق",
+    "popularityChart": "شعبية الأنواع",
+    "targetAudience": "الجمهور المستهدف",
+    "marketTrends": "اتجاهات السوق",
+    "competitiveAnalysis": "تحليل المنافسة",
+    "genres": "الخيال العلمي,الفانتازيا,الغموض,الرومانسية,المغامرة",
+    "targetAudienceResult": "القراء الشباب الذين تتراوح أعمارهم بين 18-35، المهتمين بالتكنولوجيا والعوالم المستقبلية",
+    "marketTrendsResult": "تبقى موضوعات الخيال العلمي ذات شعبية، خاصة تلك التي تتناول الذكاء الصناعي وتغير المناخ",
+    "competitiveAnalysisResult": "عدد قليل من الأعمال المماثلة في السوق، إمكانات كبيرة للتطوير"
+  },
+  "Revision": {
+    "title": "المراجعة",
+    "textareaPlaceholder": "أدخل نصك هنا",
+    "getAISuggestions": "احصل على اقتراحات من الذكاء الصناعي",
+    "allSuggestions": "جميع الاقتراحات",
+    "grammar": "القواعد",
+    "style": "الأسلوب",
+    "structure": "الهيكل",
+    "type": "النوع",
+    "sampleText": "هذا هو فقرة نموذجية. قد تكون هناك بعض الأخطاء النحوية والتعبيرات غير الواضحة هنا. قد يرغب المؤلف في تحسين هيكل هذه الفقرة واختيار الكلمات.",
+    "grammarSuggestion": "الجملة الثانية تفتقر إلى فاعل، ضع في اعتبارك إضافة واحد.",
+    "styleSuggestion": "فكر في استخدام أوصاف أكثر تحديدًا بدلاً من 'بعض'.",
+    "structureSuggestion": "يمكن تعزيز هذه الفقرة بإضافة جملة رئيسية."
+  },
+  "StoryStructure": {
+    "title": "بنية القصة",
+    "openingLabel": "البداية",
+    "openingPlaceholder": "صِف المشهد الافتتاحي",
+    "incitingIncidentLabel": "الحدث المحرض",
+    "incitingIncidentPlaceholder": "ما هو الحدث الذي يبدأ القصة؟",
+    "risingActionLabel": "تصاعد الأحداث",
+    "risingActionPlaceholder": "صِف الأحداث التي تؤدي إلى الذروة",
+    "midpointLabel": "نقطة المنتصف",
+    "midpointPlaceholder": "ما هو الحدث الرئيسي الذي يقع في المنتصف؟",
+    "crisisLabel": "الأزمة",
+    "crisisPlaceholder": "صِف لحظة التوتر الأكبر",
+    "climaxLabel": "الذروة",
+    "climaxPlaceholder": "كيف تصل الصراع الرئيسي إلى ذروته؟",
+    "resolutionLabel": "الحل",
+    "resolutionPlaceholder": "كيف تنتهي القصة؟",
+    "getAISuggestionButton": "احصل على اقتراح لبنية القصة من الذكاء الصناعي",
+    "aiSuggestionTitle": "اقتراح بنية القصة من الذكاء الصناعي",
+    "aiSuggestionPlaceholder": "استنادًا إلى بنية قصتك، فكر في إضافة وصف لحياة اليومية بين البداية والحدث المحرض. هذا سيساعد القرّاء على فهم عالم البطل العادي بشكل أفضل."
+  },
+  "StoryTypeSelector": {
+    "title": "اختر نوع القصة",
+    "backToFlow": "العودة إلى التدفق",
+    "typeDetails": "تفاصيل النوع",
+    "viewClassicExamples": "عرض أمثلة كلاسيكية",
+    "storyTypes": [
+      {
+        "id": "monster",
+        "name": "الوحش في المنزل",
+        "description": "مكان مغلق ووجود وحش مخيف يخلق التوتر. هدف البطل هو تجنب أن يُؤكل."
+      },
+      {
+        "id": "goldenFleece",
+        "name": "الصوف الذهبي",
+        "description": "قصة رحلة حيث ليست العملية الترحالية مهمة، بل النمو والتغيير الداخلي للبطل هو الأهم."
+      },
+      {
+        "id": "wishFulfillment",
+        "name": "تحقيق الأمنيات",
+        "description": "البطل دائمًا مضطهد من قبل من حوله ويأمل في الهروب من هذا المأزق. ولكن بعد أن تتحقق الأمنية، يدرك أن كونه شخصاً عادياً هو الأفضل."
+      },
+      {
+        "id": "outOfBottle",
+        "name": "الخروج من الزجاجة",
+        "description": "البطل هو مشاغب، لكنه لا يزال لديه بعض بقايا الضمير. بعد سلسلة من الأحداث، ينجح أخيرًا في تغيير نفسه وتحقيق النمو."
+      },
+      {
+        "id": "dilemma",
+        "name": "المأزق",
+        "description": "القصة عن شخص عادي محاصر في مأزق. للهروب من المأزق، يجب عليه أولاً التغلب على نفسه. جودة القصة تعتمد على التباين بين المأزق والبطل."
+      }
+    ]
+  }
+}
