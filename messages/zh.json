@@ -1,52 +1,52 @@
 {
   "Product": {
-    "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "name": "AI-Lengua",
+    "solgan": "语言学习，AI助力。"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "AI-Lengua"
     },
     "Hero": {
-      "title": "终极剧本创作工作平台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "语言爱好者的终极AI-语言学习平台",
+      "description": "个性化学习计划，丰富的语言资源。AI实时对话、语法纠错、作文批改......更多功能等您探索！",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "语言学习档案生成器",
+        "description": "轻松创建您的详细语言学习档案。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "您的语言学习班主任",
+        "description": "根据往届学生的经验为您制定个性化学习计划。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "语言学习资源库",
+        "description": "强大的数据库为您提供丰富的学习资源。"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "title": "AI助手",
+        "description": "AI实时对话、语法纠错、作文批改提高您的听说读写能力。"
       }
     },
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
-        "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "name": "马舜Neptuno",
+        "role": "医生&外院西语人",
+        "content": "彻底改变了我的一生。我现在一节西语课都不用上啦！"
       },
       "testimonial2": {
-        "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "name": "吴科宣Akrios",
+        "role": "语言学习爱好者",
+        "content": "不用多邻国也可以自学日韩法俄彝西语。"
       },
       "testimonial3": {
-        "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "name": "Una",
+        "role": "长郡中学特级英语教师",
+        "content": "A full-full-full-fullfullfull mark！"
       }
     },
     "Header": {
@@ -57,7 +57,7 @@
       "signUp": "注册"
     },
     "Footer": {
-      "about": "关于我们",
+      "about": "关于Esperanza",
       "team": "团队",
       "jobs": "工作机会",
       "press": "新闻",
@@ -66,21 +66,21 @@
       "helpCenter": "帮助中心",
       "tutorials": "教程",
       "contact": "联系我们",
-      "email": "support@scriptcraft.com",
-      "address1": "123 编剧大道",
-      "address2": "好莱坞，加利福尼亚州 90028",
-      "cta": "今天开始您的编剧之旅",
+      "email": "support@esperanza.com",
+      "address1": "北京大学",
+      "address2": "西班牙，巴塞罗那 96110",
+      "cta": "今天开始您的语言之旅",
       "startFreeTrial": "开始免费试用",
-      "copyright": "© 2023 ScriptCraft。保留所有权利。"
+      "copyright": "© 2024 AI-Lengua。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
-      "imageAlt": "ScriptCraft界面"
+      "title": "用科技学习语言，让AI取代外院",
+      "imageAlt": "AI-Lengua界面"
     }
   },
   "Dashboard": {
     "title": "仪表板",
-    "productName": "ScriptCraft",
+    "productName": "AI-Lengua",
     "welcome": "欢迎使用AI小说助手",
     "selectFeature": "请从侧边栏选择一个功能以开始。",
     "oneLiner": "一句话故事",
