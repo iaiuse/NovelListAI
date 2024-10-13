@@ -15,7 +15,7 @@
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
+        "title": "角色档案",
         "description": "轻松创建详细的角色档案。"
       },
       "storyStructure": {
